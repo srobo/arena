@@ -1,0 +1,42 @@
+#####		Network cable (CAT5)		#####
+
+Length 	Quantity	Status	Description
+22m	1		got	Terminal -> 24/s
+5m	6			South Side Wings (4) + East Side South Wing (2)
+1.5m	4		got	South Side Middle (2) + East Side North Wing (2)
+20m	1		got	24/s -> 5/s
+
+Already have:
+Length 	Quantity	Notes	
+1.5m	7+	x	Teminated
+2m	1		Terminated
+3m	2		Terminated
+8.5m	1	x	Terminated
+9m	1	split	Unterminated
+12m	1	split	Terminated
+13m	1	split	Terminated
+27m	2	x	Terminated
+
+#####		Power cable			#####
+
+Length	Ways	Quant	Status	Description
+13m	4	2	|buy 1	|West Side to South Side (1) + East Side to South Side(1)
+1/1.5m	4	4	|got	|South Side (2) + East Side (2)
+4m	4	2	|buy 2	|South Side (2)
+2m	4	1	|got	|East Side (1)
+8m	4	1	|buy	|North Side to East Side (1)
+
+Already have
+length 		way	Quantity	Owner
+50m 		4	1		rds
+1m		5	3		rds (3) ccross (1) plaw (1)
+3m		4	1		plaw (1)
+4m		4	1		plaw (1)
+2m		6	1		jmorse (1)
+2m		4	1		jmorse (1)
+
+Product Codes
+15m 1way	Asda	http://direct.asda.com/Masterplug-15m-1-Gang-Socket/001125767,default,pd.html
+2m  4way	Asda	http://direct.asda.com/Masterplug-4-Socket-2m-Extension-Lead/001125760,default,pd.html 
+10m 2way	Asda	http://direct.asda.com/Asda-2-Socket-10m-Cable-Reel/001125445,default,pd.html
+
