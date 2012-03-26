@@ -13,8 +13,8 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="arena.svg">
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="verticals.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52614286"
-     inkscape:cx="149.00354"
-     inkscape:cy="548.69655"
+     inkscape:zoom="4.2091429"
+     inkscape:cx="382.83365"
+     inkscape:cy="395.69544"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="1021"
+     inkscape:window-x="1680"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -383,14 +383,14 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
-       x="390"
+       x="388.09937"
        y="677.36218"
        id="text4005"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4007"
-         x="390"
-         y="677.36218">1.5m</tspan></text>
+         x="388.09937"
+         y="677.36218">1.25m</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
@@ -478,7 +478,7 @@
          sodipodi:role="line"
          id="tspan4007-0"
          x="315"
-         y="677.36218">1.5m</tspan></text>
+         y="677.36218">1.25m</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
@@ -493,13 +493,13 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
-       x="210"
+       x="221.40375"
        y="677.36218"
        id="text3997-8-98"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3999-5-8"
-         x="210"
-         y="677.36218">2.5m</tspan></text>
+         x="221.40375"
+         y="677.36218"
+         id="tspan3065">3m</tspan></text>
   </g>
 </svg>
