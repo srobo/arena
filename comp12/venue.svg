@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="Comp2012_Layout.svg">
+   sodipodi:docname="venue.svg">
   <defs
      id="defs4">
     <marker
@@ -418,15 +418,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="431.0053"
-     inkscape:cy="307.15598"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="527.31755"
+     inkscape:cy="548.97677"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="0"
+     inkscape:window-width="2048"
+     inkscape:window-height="1099"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
@@ -627,9 +627,9 @@
     <rect
        style="fill:#00a031;fill-opacity:1;stroke-width:1.77165353;stroke-miterlimit:4;stroke-dasharray:21.25984252, 1.77165354;stroke-dashoffset:0"
        id="rect3881"
-       width="161.57033"
+       width="275.41452"
        height="70.710678"
-       x="245.23076"
+       x="131.38657"
        y="124.84619" />
     <text
        xml:space="preserve"
@@ -796,12 +796,12 @@
        width="1052.3622"
        height="744.09448" />
     <use
-       style="display:inline"
+       style="fill:#a26d6d;fill-opacity:1;stroke:none;display:inline"
        x="0"
        y="0"
        xlink:href="#pit-zone"
        id="use4041-9-3-2"
-       transform="translate(128.55988,-201.87938)"
+       transform="translate(295.62128,-29.47736)"
        width="1052.3622"
        height="744.09448" />
     <use
@@ -1047,23 +1047,6 @@
            id="tspan4432-5"
            sodipodi:role="line">3m</tspan></text>
     </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);display:inline"
-       d="m 246.06668,190.31189 160.5,0"
-       id="path3030-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
-       x="311.54419"
-       y="185.17953"
-       id="text4430-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4432-0"
-         x="311.54419"
-         y="185.17953">9.1m</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);display:inline"
        d="m 622.86217,164.91936 78.47561,0"
