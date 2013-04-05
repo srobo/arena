@@ -210,11 +210,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="93.284708"
-     inkscape:cy="360.20997"
+     inkscape:zoom="1"
+     inkscape:cx="373.40617"
+     inkscape:cy="754.79072"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="mm"
      inkscape:window-width="1330"
@@ -241,10 +241,10 @@
      style="display:inline">
     <path
        style="fill:#ffaaaa;stroke:none;display:inline"
-       d="m 647.0166,281.91498 0,301.72525 -146.2138,0 0,100.68624 -73.65995,0 0,-101.78571 0,-74.10715 145.10856,0 0,-226.51674 c 24.92171,-0.004 49.84346,-0.002 74.76519,-0.002 z"
+       d="m 635.0166,281.91498 0,301.72525 -134.2138,0 0,100.68624 -73.65995,0 0,-101.78571 0,-74.10715 133.10856,0 0,-240.51674 c 24.92171,-0.004 49.84346,-0.002 74.76519,-0.002 z"
        id="path3713"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
+       sodipodi:nodetypes="ccccccccccc" />
     <rect
        style="fill:#d7eef4;stroke:none;display:inline"
        id="rect3173"
@@ -252,6 +252,20 @@
        height="186.75493"
        x="327.66458"
        y="588.83862" />
+    <rect
+       style="fill:#ff2a2a;stroke:none;display:inline"
+       id="rect3324"
+       width="88.237099"
+       height="95.656853"
+       x="419.56671"
+       y="588.66656" />
+    <rect
+       style="fill:#ff2a2a;stroke:none;display:inline"
+       id="rect3324-4"
+       width="184.34192"
+       height="86.792068"
+       x="505.07904"
+       y="135.45148" />
   </g>
   <g
      inkscape:label="floorplan"
@@ -794,7 +808,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="networking"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#00ffff;stroke-width:0.83541691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 251.46811,370.52386 283.46747,0 0,-9.68701"
@@ -1246,30 +1261,34 @@
            y="837.81561"
            style="font-size:12px;text-align:center;text-anchor:middle">and Tables</tspan></text>
     </g>
-    <rect
-       style="fill:#d7eef4;stroke:none;display:inline"
-       id="rect3173-2"
-       width="23.242319"
-       height="15.164207"
-       x="125.02971"
-       y="769.6543" />
     <g
-       id="g4687">
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="187.28838"
-         y="781.71002"
-         id="text8471-2-9-3-8"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan4145-0"
-           sodipodi:role="line"
-           x="187.28838"
+       id="g4718">
+      <rect
+         y="769.6543"
+         x="125.02971"
+         height="15.164207"
+         width="23.242319"
+         id="rect3173-2"
+         style="fill:#d7eef4;stroke:none;display:inline" />
+      <g
+         id="g4687">
+        <text
+           sodipodi:linespacing="125%"
+           id="text8471-2-9-3-8"
            y="781.71002"
-           style="font-size:12px;text-align:center;text-anchor:middle">Staff Area</tspan></text>
+           x="187.28838"
+           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:12px;text-align:center;text-anchor:middle"
+             y="781.71002"
+             x="187.28838"
+             sodipodi:role="line"
+             id="tspan4145-0">Staff Area</tspan></text>
+      </g>
     </g>
     <g
-       id="g4682">
+       id="g4682"
+       transform="translate(0,0.14613342)">
       <rect
          y="790.5752"
          x="125.02971"
@@ -1289,6 +1308,33 @@
            x="157.19756"
            y="802.63092"
            style="font-size:12px;text-align:start;text-anchor:start">Fire Route</tspan></text>
+    </g>
+    <g
+       transform="translate(0,21.2132)"
+       style="display:inline"
+       id="g4682-8">
+      <g
+         id="g4724">
+        <rect
+           style="fill:#ff2a2a;fill-opacity:1;stroke:none;display:inline"
+           id="rect3173-2-4-7"
+           width="23.242319"
+           height="15.164207"
+           x="125.02971"
+           y="790.5752" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text8471-2-9-3-8-1-5"
+           y="802.63092"
+           x="157.19756"
+           style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:12px;text-align:start;text-anchor:start"
+             y="802.63092"
+             x="157.19756"
+             sodipodi:role="line"
+             id="tspan4145-0-6-4">Fire Escape</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
