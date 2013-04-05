@@ -210,9 +210,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="404.39008"
-     inkscape:cy="546.64974"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="404.3137"
+     inkscape:cy="630.0603"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -851,7 +851,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="networking"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#00ffff;stroke-width:0.94093025px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 243.98645,386.20422 0,197.399 89.63563,0 0,189.71727 0,26.63406"
@@ -1158,7 +1159,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="key"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.96774197px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        id="rect3290"
@@ -1367,7 +1369,7 @@
        id="g5080">
       <text
          xml:space="preserve"
-         style="display:inline;font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          x="209.43666"
          y="790.28699"
          id="text6750"
@@ -1385,7 +1387,7 @@
            style="font-size:12px;text-align:center;text-anchor:middle">2xSSID</tspan></text>
       <text
          xml:space="preserve"
-         style="display:inline;font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          x="240.43668"
          y="790.28699"
          id="text6760"
@@ -1397,7 +1399,7 @@
            y="790.28699"
            style="font-size:16px">AP</tspan></text>
       <rect
-         style="display:inline;fill:#00ffff;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#00ffff;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          id="rect6637-0"
          width="12.857142"
          height="12.857142"
@@ -1405,7 +1407,7 @@
          y="757.29114"
          transform="translate(35.785714,-109.63575)" />
       <rect
-         style="display:inline;fill:#00ff00;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#00ff00;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          id="rect6637-3"
          width="12.857142"
          height="12.857142"
