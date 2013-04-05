@@ -210,15 +210,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="373.40617"
-     inkscape:cy="754.79072"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="698.09196"
+     inkscape:cy="822.8375"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1330"
-     inkscape:window-height="715"
+     inkscape:window-width="1404"
+     inkscape:window-height="847"
      inkscape:window-x="36"
      inkscape:window-y="31"
      inkscape:window-maximized="1" />
@@ -241,12 +241,12 @@
      style="display:inline">
     <path
        style="fill:#ffaaaa;stroke:none;display:inline"
-       d="m 635.0166,281.91498 0,301.72525 -134.2138,0 0,100.68624 -73.65995,0 0,-101.78571 0,-74.10715 133.10856,0 0,-240.51674 c 24.92171,-0.004 49.84346,-0.002 74.76519,-0.002 z"
+       d="m 635.0166,281.91498 0,301.72525 -134.2138,0 0,100.68624 -73.65995,0 0,-101.78571 0,-74.10715 133.10856,0 0,-272.51674 c 24.92171,-0.004 49.84346,-0.002 74.76519,-0.002 z"
        id="path3713"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
     <rect
-       style="fill:#d7eef4;stroke:none;display:inline"
+       style="fill:#afdde9;stroke:none;display:inline"
        id="rect3173"
        width="91.813751"
        height="186.75493"
@@ -857,7 +857,7 @@
        transform="translate(-16,0)">
       <path
          transform="matrix(0.371134,0,0,0.38461541,143.63861,694.30924)"
-         d="m 589.01996,297.17215 a 34.294678,36.769554 0 1 1 -68.58936,0 34.294678,36.769554 0 1 1 68.58936,0 z"
+         d="m 589.01996,297.17215 c 0,20.30726 -15.35425,36.76955 -34.29468,36.76955 -18.94043,0 -34.29468,-16.46229 -34.29468,-36.76955 0,-20.30726 15.35425,-36.76955 34.29468,-36.76955 18.94043,0 34.29468,16.46229 34.29468,36.76955 z"
          sodipodi:ry="36.769554"
          sodipodi:rx="34.294678"
          sodipodi:cy="297.17215"
@@ -978,8 +978,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="tables"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        style="display:inline"
        id="g3281"
@@ -1011,7 +1010,7 @@
        id="rect3207-5-3"
        width="33.115364"
        height="20.215366"
-       x="627.28857"
+       x="635.28857"
        y="245.0609" />
   </g>
   <g
@@ -1269,7 +1268,7 @@
          height="15.164207"
          width="23.242319"
          id="rect3173-2"
-         style="fill:#d7eef4;stroke:none;display:inline" />
+         style="fill:#afdde9;stroke:none;display:inline" />
       <g
          id="g4687">
         <text
