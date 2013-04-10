@@ -236,16 +236,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
+     inkscape:zoom="1.4"
      inkscape:cx="710.575"
      inkscape:cy="388.73322"
      inkscape:document-units="px"
      inkscape:current-layer="g3917-2-6-5-5-11-7-97-5"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="961"
-     inkscape:window-x="1680"
-     inkscape:window-y="30"
+     inkscape:window-width="1330"
+     inkscape:window-height="715"
+     inkscape:window-x="36"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -261,7 +261,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1875,16 +1875,21 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:28.93702698px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         x="163.80835"
-         y="976.00421"
+         style="font-size:28.93702698px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="305.21402"
+         y="978.95697"
          id="text3592"
          transform="matrix(0,-1,1,0,0,0)"><tspan
            sodipodi:role="line"
            id="tspan3594"
-           x="163.80835"
-           y="976.00421"
-           style="font-size:24.80316544px">Charging stand?</tspan></text>
+           x="305.21402"
+           y="978.95697"
+           style="font-size:24.80316544px;text-align:center;text-anchor:middle">Charging</tspan><tspan
+           sodipodi:role="line"
+           x="305.21402"
+           y="1009.9609"
+           style="font-size:24.80316544px;text-align:center;text-anchor:middle"
+           id="tspan3731">stand</tspan></text>
     </g>
     <g
        style="display:inline"
