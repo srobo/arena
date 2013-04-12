@@ -236,11 +236,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="239.71068"
-     inkscape:cy="853.06452"
+     inkscape:zoom="0.7"
+     inkscape:cx="117.92497"
+     inkscape:cy="694.24864"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:window-width="1330"
      inkscape:window-height="715"
@@ -834,8 +834,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="team pits"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:#ffc97c;fill-opacity:1;stroke:#000000;stroke-width:0.96531695;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect75993-5-0-1-6"
@@ -2554,6 +2553,107 @@
        d="m 462.14479,563.19581 -57.57869,0 0,20.45559"
        id="path5823"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="team names">
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="118.04565"
+       y="173.52928"
+       id="text3958"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3960"
+         x="118.04565"
+         y="173.52928"
+         style="font-size:13px">CRB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120.26733"
+       y="199.24356"
+       id="text3958-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3960-1"
+         x="120.26733"
+         y="199.24356"
+         style="font-size:13px">ALT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="119.22468"
+       y="436.38644"
+       id="text3958-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3960-9"
+         x="119.22468"
+         y="436.38644"
+         style="font-size:13px">HRS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="122.07795"
+       y="462.10071"
+       id="text3958-0-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3960-1-6"
+         x="122.07795"
+         y="462.10071"
+         style="font-size:13px">JMS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120.77668"
+       y="357.81497"
+       id="text3958-8-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3960-9-7"
+         x="120.77668"
+         y="357.81497"
+         style="font-size:13px">SWI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="125.7544"
+       y="541.38641"
+       id="text3958-8-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3960-9-9"
+         x="125.7544"
+         y="541.38641"
+         style="font-size:13px">STA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120.51441"
+       y="565.67218"
+       id="text3958-8-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3960-9-3"
+         x="120.51441"
+         y="565.67218"
+         style="font-size:13px">HRS2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="118.47247"
+       y="276.38007"
+       id="text3958-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3960-7"
+         x="118.47247"
+         y="276.38007"
+         style="font-size:13px">ERS</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
