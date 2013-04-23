@@ -24,3 +24,15 @@ that's broken, this is the order that we will do instead:
  * 10 x swivel couplers
 
 (The above list is at least 20% more, rounded up some.)
+
+Notes on ordering
+-----------------
+
+In both SR2012 and SR2013 there was miscommunication between the scaff
+company and the person on the SR side.  "6 x 2.8m plain scaff" was
+interpreted by the scaff company as six scaff **boards**.  We didn't
+want these scaff boards, but obviously we had to deal with them
+because the scaff company didn't want them hanging around etc.  In
+future, please ensure that scaff boards are not ordered.  It was
+possible to remedy this failure because we had enough spare 2.5m
+horizontals for the arena diagonals.  However, this was not ideal.
