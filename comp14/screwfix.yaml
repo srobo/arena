@@ -26,8 +26,8 @@ purchases: ##############################
         cost: 2.48
 
       # Items with a null description will be ignored
-      - desc: null
-        cost: 0.00
+      - desc: Non-adhesive barrier tape (76107)
+        cost: 9.59
 
   # Add more entries like this as necessary
   # (entries with null budget-lines will be ignored)
