@@ -8,12 +8,14 @@ All people working on the installation will be briefed about the installation pr
 
 The tape will be applied to the floor, and as this is done, the plastic sheeting will be unrolled on-top of it.  The sheeting may need to be cut to fit in a small number of places.
 
+Floor protection:
  * Helpdesk area not to be covered.
- * 100mm overlap between strips: 8 strips required along length of room.
+ * 8 strips required along length of room.
+ * 100mm overlap of strips
  * This will leave a 3.6m x 13.4m gap at the end of the room.  This can be covered by 2 strip-widths, and will only require one more roll.
 
 Tapes:
- * Double sided tape for adhering to carpet.  Labelled as low tack on interior of rolls.
+ * Double sided tape: Adheres floor protection to carpet. 3 strips of this underneath every strip of floor protection.  Labelled as low tack on interior of rolls: only use rolls with this "low tack" label for this purpose.
  * Joining tape:  Each strip overlaps over the top of its neighbour.  The edge of the top sheet will need securing to the bottom sheet using the joining tape.
 
 # Hazards and Control Measures
