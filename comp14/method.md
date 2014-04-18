@@ -15,6 +15,21 @@ Pine and hardboard will be installed around the base of the arena.
 ## 5. Dressing
 Power and network cables will be attached to the top bar of the scaff.  Displays will be mounted on the top bar of this scaff.  The scaffold will then be wrapped in fabric.
 
+## 6. Competition
+The competition will then occur.
+
+## 7. Intro talk for deconstruction
+All people working on the installation will be briefed about the deconstruction process, and the risks involved.
+
+## 8. Remove displays, cables, fabric, and timber
+The displays, cables, timber, and fabric will be removed.
+
+## 9. Remove scaffold
+The cuplock scaffolding frame will be dismantled.
+
+## 10. Remove carpet
+The carpet will be removed from the floor.
+
 # Hazards and Control Measures
 
 ## Injury from heavy lifting
@@ -62,4 +77,4 @@ The following equipment will be in use:
  * Snips
  * Scissors
  * Knives
-
+ * Step ladder
