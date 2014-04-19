@@ -1,0 +1,40 @@
+# Please complete all of the fields below
+# This is a YAML file.
+
+# The username of the payee
+username: rspanton
+
+# A one-line summary of this purchase
+# (Keep it short -- this is used in the trac ticket title etc.)
+summary: Screwfix order for SR2014
+
+# Name of the supplier
+supplier: Screwfix
+# URL of the supplier (if appropriate)
+supplier-url: http://www.screwfix.com/
+
+# The purchase(s) that you are requesting
+purchases: ##############################
+
+  # The budget line
+  - budget-line: sr2014/competition/arenas/fixings
+    # Summary for this budget line
+    summary: Fixings and sundries for the SR2014 arena
+    # The item(s) you want to buy from the supplier against this budget line
+    items:
+      - desc: 2 x Earplugs (45846)
+        cost: 2.48
+
+      # Items with a null description will be ignored
+      - desc: Non-adhesive barrier tape (76107)
+        cost: 9.59
+
+  # Add more entries like this as necessary
+  # (entries with null budget-lines will be ignored)
+  - budget-line: null
+    summary: 
+    items:
+      - desc:
+        cost: 0.00
+      - desc:
+        cost: 0.00
