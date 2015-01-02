@@ -1,0 +1,47 @@
+This directory contains designs for the SR2015 competition 'flags'.
+
+From the rules (rev 3):
+
+ * Flags are wooden cubes with a side length of 250 ± 10mm.
+ * The overall weight of each flag will be 2 ± 0.2kg.
+ * Flags will be mounted on 4 ball casters, one in each corner of the bottom
+   face. The centre of each caster will be positioned 35 ± 10mm inward from
+   both adjacent edges. The lower edge of each vertical face will have a
+   ground clearance of 10 ± 5mm.
+
+A flag consists of a cube constructed out of 3mm laser cut MDF. The edges are
+interlocking and the whole thing is glued together. The lid is screwed down,
+rather than being glued in place, to allow it to be removed.
+
+The base of the cube has four cut-outs for ball castors. These are inserted
+from the outside of the cube, giving a ground clearance of 10.8mm.
+
+Inside the cube there is a small compartment roughly 130x130x70mm in size.
+This compartment is to hold ballast to make up the weight of the flag.
+The weight of the cube without ballast should be around 1.2kg. Ballast can
+be added in the form of dry sand. The compartment lid can be taped on to
+prevent the sand from spilling if the flag is turned upside down.
+
+The panels are split up into separate DXF files (drawn with librecad). The
+individual panels are grouped together into a large panel suitable for
+submitting to RazorLAB:
+
+  sr2015_flag_razorlab_panel1_reva consists of:
+      2x sr2015_flag_side
+      1x sr2015_flag_bottom
+      1x sr2015_flag_inner_top
+      2x sr2015_flag_inner_side
+
+  sr2015_flag_razorlab_panel2_reva consists of:
+      2x sr2015_flag_side
+      1x sr2015_flag_top
+      2x sr2015_flag_inner_side
+
+BOM
+===
+
+ 1x sr2015_flag_razorlab_panel1_reva
+ 1x sr2015_flag_razorlab_panel2_reva
+ 4x LD16 ball castor from OmniTrack
+ 8x M3 12mm pan bzp screw (Farnell: 1420391)
+ 8x M3 nyloc nut (Farnell: 1420431)
