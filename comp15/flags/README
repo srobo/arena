@@ -42,6 +42,14 @@ submitting to RazorLAB:
       2x sr2015_flag_inner_side
       4x sr2015_flag_top_fixing_plate
 
+
+There are also two 600mmx400mm panels for for EDMC laser cutter
+at the University of Southampton; for one flag, three mdf pieces need to be cut:
+  600mmx400mm_A  - cut once
+  600mmx400mm_Bx2.dxf - cut twice
+  
+
+
 BOM
 ===
 
