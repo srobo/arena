@@ -187,7 +187,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="440.09167"
-     inkscape:cy="630.12937"
+     inkscape:cy="510.12937"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -195,7 +195,9 @@
      inkscape:window-height="974"
      inkscape:window-x="1680"
      inkscape:window-y="24"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid3155"
@@ -213,7 +215,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -452,19 +454,19 @@
          id="tspan3497"># Flags: _______</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
-       x="160"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+       x="224.43359"
        y="532.36212"
        id="text3416"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3418"
-         x="160"
-         y="532.36212">Disqualified?</tspan><tspan
+         x="224.43359"
+         y="532.36212">Present: ▢</tspan><tspan
          sodipodi:role="line"
-         x="160"
-         y="557.36212"
-         id="tspan3420">Yes / No</tspan></text>
+         x="224.43359"
+         y="557.42224"
+         id="tspan3420">Disqualified: ▢</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3523"
@@ -614,7 +616,7 @@
          sodipodi:role="line"
          x="371.94763"
          y="611.02997"
-         id="tspan3705"></tspan><tspan
+         id="tspan3705" /><tspan
          sodipodi:role="line"
          x="371.94763"
          y="641.02997"
