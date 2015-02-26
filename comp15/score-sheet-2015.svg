@@ -185,9 +185,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="440.09167"
-     inkscape:cy="510.12937"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="415.84129"
+     inkscape:cy="501.69262"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -621,5 +621,17 @@
          x="371.94763"
          y="641.02997"
          id="tspan3707">____________</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell Extra Bold;-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold'"
+       x="38.932007"
+       y="994.36212"
+       id="text3223"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3225"
+         x="38.932007"
+         y="994.36212"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold">A flag is considered in a zone if at least one caster is in contact with the zone.</tspan></text>
   </g>
 </svg>
