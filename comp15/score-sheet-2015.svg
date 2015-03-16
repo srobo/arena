@@ -186,10 +186,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="415.84129"
+     inkscape:cx="247.54988"
      inkscape:cy="558.26116"
      inkscape:document-units="px"
-     inkscape:current-layer="g3076"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="1022"
@@ -226,20 +226,20 @@
      transform="translate(0,3.2302534e-5)">
     <g
        id="g3076"
-       transform="matrix(0.84245475,0,0,0.84245475,-7.0574366,97.403032)">
+       transform="matrix(0.84245475,0,0,0.84245475,-7.0574366,127.40303)">
       <rect
          y="202.36946"
          x="50.007309"
          height="799.98541"
          width="799.98535"
          id="rect3157"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01462078000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01462078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <g
          style="fill:#fff5e0;fill-opacity:1"
          id="g4055">
         <path
            id="path3990"
-           style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:2.00019407000000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:2.00019407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="m 850,402.36218 -200,-200 -185.00002,0 2e-5,250 134,135 251,-0.27035 z"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccc" />
@@ -445,27 +445,27 @@
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
        x="190"
-       y="462.36215"
+       y="492.36215"
        id="text3412"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="190"
-         y="462.36215"
+         y="492.36215"
          id="tspan3497"># Flags: _______</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
        x="224.43359"
-       y="532.36212"
+       y="562.36212"
        id="text3416"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3418"
          x="224.43359"
-         y="532.36212">Present: ▢</tspan><tspan
+         y="562.36212">Present: ▢</tspan><tspan
          sodipodi:role="line"
          x="224.43359"
-         y="557.42224"
+         y="587.42224"
          id="tspan3420">Disqualified: ▢</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -482,12 +482,12 @@
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
        x="210"
-       y="382.36215"
+       y="412.36215"
        id="text3412-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="210"
-         y="382.36215"
+         y="412.36215"
          id="tspan3497-4">TLA: _______</tspan></text>
     <use
        x="0"
@@ -502,7 +502,7 @@
        y="0"
        xlink:href="#text3416"
        id="use3566"
-       transform="translate(430,1.336889e-7)"
+       transform="translate(430,0)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -518,7 +518,7 @@
        y="0"
        xlink:href="#text3412-5"
        id="use3570"
-       transform="translate(290,-6.9999982)"
+       transform="translate(290,-6.999998)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -573,65 +573,57 @@
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
        x="477.36444"
-       y="172.36215"
+       y="156.36215"
        id="text3412-5-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="477.36444"
-         y="172.36215"
+         y="156.36215"
          id="tspan3497-4-0">Match Number: _______</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
        x="210.83942"
-       y="172.36215"
+       y="156.36215"
        id="text3412-5-0-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="210.83942"
-         y="172.36215"
+         y="156.36215"
          id="tspan3497-4-0-6">Arena: _______</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
-       x="60"
-       y="232.36215"
+       x="84.473022"
+       y="212.13657"
        id="text3412-5-0-0-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="60"
-         y="232.36215"
+         x="84.473022"
+         y="212.13657"
          id="tspan3497-4-0-6-3">Scorer (print name): _______________________</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
-       x="371.94763"
-       y="581.02997"
-       id="text3412-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="371.94763"
-         y="581.02997"
-         id="tspan3497-2">Unclaimed Flags:</tspan><tspan
-         sodipodi:role="line"
-         x="371.94763"
-         y="611.02997"
-         id="tspan3705" /><tspan
-         sodipodi:role="line"
-         x="371.94763"
-         y="641.02997"
-         id="tspan3707">____________</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell Extra Bold;-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold'"
        x="38.932007"
-       y="994.36212"
+       y="1010.3621"
        id="text3223"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3225"
          x="38.932007"
-         y="994.36212"
+         y="1010.3621"
          style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold">A flag is considered in a zone if at least one caster is in contact with the zone.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+       x="111.64587"
+       y="268.36215"
+       id="text3412-5-0-0-7-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="111.64587"
+         y="268.36215"
+         id="tspan3100">Unclaimed Flags (anywhere): ____________</tspan></text>
   </g>
 </svg>
