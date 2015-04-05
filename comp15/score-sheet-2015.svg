@@ -186,7 +186,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="247.54988"
+     inkscape:cx="79.258466"
      inkscape:cy="558.26116"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -236,7 +236,8 @@
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01462078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <g
          style="fill:#fff5e0;fill-opacity:1"
-         id="g4055">
+         id="g4055"
+         transform="translate(-2.15062e-6,0)">
         <path
            id="path3990"
            style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:2.00019407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -332,52 +333,76 @@
          id="g4099" />
       <g
          style="fill:#4d4d4d"
-         transform="matrix(1.0762254,0,0,1.0762254,-40.029815,-18.510855)"
+         transform="matrix(1.0762254,0,0,1.0762254,-40.029815,-32.754945)"
          id="g11459">
         <text
            xml:space="preserve"
-           style="font-size:29.73354912px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
-           x="293.73587"
-           y="256.8414"
+           style="font-size:29.73354912px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+           x="342.22821"
+           y="250.22379"
            id="text11423"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan11425"
-             x="293.73587"
-             y="256.8414">Zone 0</tspan></text>
+             x="342.22821"
+             y="250.22379"
+             style="font-size:29.77926254px">Zone 0</tspan><tspan
+             sodipodi:role="line"
+             x="342.22821"
+             y="279.75241"
+             id="tspan3084"
+             style="font-size:22.05871391px">(green)</tspan></text>
         <text
            sodipodi:linespacing="125%"
            id="text11431"
            y="918.60278"
-           x="514.323"
-           style="font-size:29.73354912px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+           x="567.54828"
+           style="font-size:29.73354912px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
            xml:space="preserve"><tspan
              y="918.60278"
-             x="514.323"
+             x="567.54828"
              id="tspan11433"
-             sodipodi:role="line">Zone 2</tspan></text>
+             sodipodi:role="line"
+             style="font-size:29.77926254px">Zone 2</tspan><tspan
+             y="948.13141"
+             x="567.54828"
+             sodipodi:role="line"
+             id="tspan3088"
+             style="font-size:22.05871391px">(purple)</tspan></text>
         <text
            sodipodi:linespacing="125%"
            id="text11443"
-           y="256.64542"
-           x="514.20685"
-           style="font-size:29.73354912px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+           y="250.0278"
+           x="572.078"
+           style="font-size:29.73354912px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
            xml:space="preserve"><tspan
-             y="256.64542"
-             x="514.20685"
+             y="250.0278"
+             x="572.078"
              id="tspan11445"
-             sodipodi:role="line">Zone 1</tspan></text>
+             sodipodi:role="line"
+             style="font-size:29.77926254px">Zone 1</tspan><tspan
+             y="279.55643"
+             x="572.078"
+             sodipodi:role="line"
+             id="tspan3086"
+             style="font-size:22.05871391px">(orange)</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:29.73354912px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
-           x="293.93912"
+           style="font-size:29.73354912px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+           x="339.99237"
            y="918.60278"
            id="text11447"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan11449"
-             x="293.93912"
-             y="918.60278">Zone 3</tspan></text>
+             x="339.99237"
+             y="918.60278"
+             style="font-size:29.77926254px">Zone 3</tspan><tspan
+             sodipodi:role="line"
+             x="339.99237"
+             y="948.13141"
+             id="tspan3090"
+             style="font-size:22.05871391px;text-align:center;text-anchor:middle">(yellow)</tspan></text>
       </g>
     </g>
     <g
@@ -531,7 +556,7 @@
        y="0"
        xlink:href="#text3412"
        id="use3572"
-       transform="translate(10,320)"
+       transform="translate(10,306)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -539,7 +564,7 @@
        y="0"
        xlink:href="#text3416"
        id="use3574"
-       transform="translate(90,300)"
+       transform="translate(90,286)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -547,7 +572,7 @@
        y="0"
        xlink:href="#text3412-5"
        id="use3576"
-       transform="translate(-86,322)"
+       transform="translate(-86,308)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -555,7 +580,7 @@
        y="0"
        xlink:href="#use3564"
        id="use3578"
-       transform="translate(-10.000001,310)"
+       transform="translate(-10.000001,296)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -563,7 +588,7 @@
        y="0"
        xlink:href="#use3566"
        id="use3580"
-       transform="translate(-90,300)"
+       transform="translate(-90,286)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -571,7 +596,7 @@
        y="0"
        xlink:href="#use3570"
        id="use3582"
-       transform="translate(79.999999,322)"
+       transform="translate(79.999999,308)"
        width="744.09448"
        height="1052.3622" />
     <text
