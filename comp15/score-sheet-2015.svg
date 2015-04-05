@@ -481,14 +481,19 @@
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
-       x="210"
-       y="412.36215"
+       x="236"
+       y="405.36215"
        id="text3412-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="210"
-         y="412.36215"
-         id="tspan3497-4">TLA: _______</tspan></text>
+         x="236"
+         y="405.36215"
+         id="tspan3083">TLA: _______</tspan><tspan
+         sodipodi:role="line"
+         x="236"
+         y="440.36215"
+         id="tspan3089"
+         style="font-size:22px">(from robot)</tspan></text>
     <use
        x="0"
        y="0"
@@ -518,7 +523,7 @@
        y="0"
        xlink:href="#text3412-5"
        id="use3570"
-       transform="translate(290,-6.999998)"
+       transform="translate(264,2e-6)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -542,7 +547,7 @@
        y="0"
        xlink:href="#text3412-5"
        id="use3576"
-       transform="translate(-60,315)"
+       transform="translate(-86,322)"
        width="744.09448"
        height="1052.3622" />
     <use
