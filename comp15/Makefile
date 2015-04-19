@@ -1,5 +1,5 @@
 
-all: score-sheet-2015.pdf
+all: score-sheet-2015.pdf arena-label-A.pdf arena-label-B.pdf
 
 %.pdf: %.svg
 	inkscape -A colour-$@ $<
