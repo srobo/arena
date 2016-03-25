@@ -4,39 +4,21 @@ from __future__ import print_function
 import itertools
 import time
 
-from sr.robot.vision import ( Vision, C500_focal_length,
-                              MARKER_TOP, MARKER_BOTTOM, MARKER_SIDE,
-                              NET_A, NET_B, NET_C )
+from sr.robot.vision import Vision, C500_focal_length
 
-from marker_helpers import ( get_direction_behind_face,
-                             get_direction_out_from_face,
-                             get_direction_to_right,
-                             get_direction_to_top,
+from marker_helpers import ( get_direction_to_token_left,
+                             get_direction_to_token_front,
+                             get_direction_to_token_top,
                              get_net )
 
 from term import print_fail, print_ok, print_warn
-from vectors import make_vector, angle_between, are_same_direction
+from vectors import angle_between, are_same_direction
 
 # Be very generous with the tolerance
 import vectors
 vectors.DEGREES_TOLERANCE = 30
 
 RES = (1280,1024)
-
-
-def get_direction_to_token_top(marker):
-    kind = marker.info.marker_type
-    if kind == MARKER_SIDE:
-        return get_direction_to_top(marker)
-
-    elif kind == MARKER_TOP:
-        return get_direction_out_from_face(marker)
-
-    elif kind == MARKER_BOTTOM:
-        return get_direction_behind_face(marker)
-
-    else:
-        assert False, "Unexpected marker type: {0}.".format(kind)
 
 
 # Via the itertools docs: https://docs.python.org/2/library/itertools.html#recipes
@@ -78,9 +60,11 @@ def process(markers):
         print_warn("Only one marker in sight")
         return
 
+    left_dir_ok = check_direction('left', get_direction_to_token_left)
+    front_dir_ok = check_direction('front', get_direction_to_token_front)
     top_dir_ok = check_direction('top', get_direction_to_token_top)
 
-    if top_dir_ok:
+    if left_dir_ok and front_dir_ok and top_dir_ok:
         print_ok("Token valid")
 
 #---
