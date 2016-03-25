@@ -4,3 +4,5 @@ Needs:
 - libkoki
 - pykoki
 - sr.robot
+
+Run tests with nosetests.
