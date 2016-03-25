@@ -43,32 +43,49 @@ def check_direction(name, func, markers):
 
     return all_same_direction
 
+def check_directions(markers):
+    assert len(markers) >= 2, "Not enough markers to check directions"
+
+    left_dir_ok = check_direction('left', get_direction_to_token_left, markers)
+    front_dir_ok = check_direction('front', get_direction_to_token_front, markers)
+    top_dir_ok = check_direction('top', get_direction_to_token_top, markers)
+    all_ok = left_dir_ok and front_dir_ok and top_dir_ok
+
+    if all_ok:
+        print_ok("View valid", end='')
+        markers_str = ', '.join("{0} {1}".format(m.info.marker_type, m.info.code) \
+                                for m in markers)
+        print(" (based on tokens: {0})".format(markers_str))
+
+    return all_ok
+
 def process(markers):
+    """Check that the given list of markers all belong to the same net and
+       that they are positioned such that the net is correctly constructed.
+
+       Returns:
+       - False: fail
+       - None:  inconclusive (fewer than two markers in sight)
+       - True:  valid
+    """
+
     if not markers:
         print_warn("No markers in sight")
-        return
+        return None
 
     try:
         net = get_net(markers)
     except Exception as e:
         print_fail(e)
-        return
+        return False
     else:
         print_ok(net)
 
     if len(markers) < 2:
         print_warn("Only one marker in sight")
-        return
+        return None
 
-    left_dir_ok = check_direction('left', get_direction_to_token_left, markers)
-    front_dir_ok = check_direction('front', get_direction_to_token_front, markers)
-    top_dir_ok = check_direction('top', get_direction_to_token_top, markers)
-
-    if left_dir_ok and front_dir_ok and top_dir_ok:
-        print_ok("Token valid", end='')
-        markers_str = ', '.join("{0} {1}".format(m.info.marker_type, m.info.code) \
-                                for m in markers)
-        print(" (based on tokens: {0})".format(markers_str))
+    return check_directions(markers)
 
 #---
 
