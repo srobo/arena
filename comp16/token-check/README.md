@@ -5,4 +5,6 @@ Needs:
 - pykoki
 - sr.robot
 
-Run tests with nosetests.
+Run tests with `nosetests`.
+
+Run the checker using `./check`

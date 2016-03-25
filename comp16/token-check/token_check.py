@@ -2,9 +2,6 @@
 from __future__ import print_function
 
 import itertools
-import time
-
-from sr.robot.vision import Vision, C500_focal_length
 
 from marker_helpers import ( get_direction_to_token_left,
                              get_direction_to_token_front,
@@ -18,8 +15,6 @@ from vectors import angle_between, are_same_direction
 # Be very generous with the tolerance
 import vectors
 vectors.DEGREES_TOLERANCE = 30
-
-RES = (1280,1024)
 
 
 # Via the itertools docs: https://docs.python.org/2/library/itertools.html#recipes
@@ -87,20 +82,3 @@ def process(markers):
         return None
 
     return check_directions(markers)
-
-#---
-
-vis = Vision("/dev/video0", "../../../libkoki/lib", RES)
-vis.camera_focal_length = C500_focal_length
-
-def see():
-    return vis.see('dev', 'A', RES, False)
-
-while True:
-    markers = see()
-
-    print("I see", len(markers), "markers")
-
-    process(markers)
-
-    time.sleep(0.1)

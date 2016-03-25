@@ -1,0 +1,26 @@
+#!/usr/bin/env python
+
+from __future__ import print_function
+
+import time
+
+from sr.robot.vision import Vision, C500_focal_length
+
+from token_check import process
+
+RES = (1280,1024)
+
+vis = Vision("/dev/video0", "../../../libkoki/lib", RES)
+vis.camera_focal_length = C500_focal_length
+
+def see():
+    return vis.see('dev', 'A', RES, False)
+
+while True:
+    markers = see()
+
+    print("I see", len(markers), "markers")
+
+    process(markers)
+
+    time.sleep(0.1)
