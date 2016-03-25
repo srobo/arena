@@ -46,13 +46,6 @@ def pairwise(iterable):
     next(b, None)
     return itertools.izip(a, b)
 
-vis = Vision("/dev/video0", "../../../libkoki/lib", RES)
-vis.camera_focal_length = C500_focal_length
-
-
-def see():
-    return vis.see('dev', 'A', RES, False)
-
 
 def check_direction(name, func):
 
@@ -90,6 +83,13 @@ def process(markers):
     if top_dir_ok:
         print_ok("Token valid")
 
+#---
+
+vis = Vision("/dev/video0", "../../../libkoki/lib", RES)
+vis.camera_focal_length = C500_focal_length
+
+def see():
+    return vis.see('dev', 'A', RES, False)
 
 while True:
     markers = see()
