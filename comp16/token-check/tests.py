@@ -1,36 +1,6 @@
 
 from vectors import WorldVector, angle_between, are_same_direction, \
-                    dot_product, unit_vector, within_ten_percent
-
-
-def test_within_ten_percent():
-    def check(a, b):
-        assert within_ten_percent(a, b), \
-                "{0} is within 10% of {1}".format(a, b)
-
-    yield check, 0, 0
-    yield check, 1, 1
-    yield check, 1.1, 1
-    yield check, 1.1, 1.1
-    yield check, 1, 1.1
-    yield check, 30, 31
-    yield check, 90, 100
-
-def test_not_within_ten_percent():
-    def check(a, b):
-        assert not within_ten_percent(a, b), \
-                "{0} is not within 10% of {1}".format(a, b)
-
-    yield check, -0.1, 0
-    yield check, -0.1, 0.1
-    yield check, -2, 1
-    yield check, 1, 2
-    yield check, 2, 1
-    yield check, 1.5, 1
-    yield check, 1.5, 1.1
-    yield check, 1.1, 1.5
-    yield check, 1, 1.5
-
+                    dot_product, unit_vector
 
 def test_same_direction():
     def check(a, b):

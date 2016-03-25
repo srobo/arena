@@ -4,16 +4,10 @@ import math
 
 WorldVector = namedtuple('WorldVector', ['x', 'y', 'z'])
 
+_ZERO_VECTOR = WorldVector(0, 0, 0)
 
-def within_ten_percent(a, b):
-    if a == b:
-        return True
-
-    if 0 in (a, b):
-        return False
-
-    frac = min(a, b) * 1.0 / max(a, b)
-    return 0.9 <= frac
+# between vectors considered the same
+DEGREES_TOLERANCE = 10
 
 
 def dot_product(vec_a, vec_b):
@@ -23,6 +17,7 @@ def dot_product(vec_a, vec_b):
     """
     dp = sum(a * b for a, b in zip(vec_a, vec_b))
     return dp
+
 
 def angle_between(vec_a, vec_b):
     """Determine the angle between two vectors, in degrees.
@@ -37,9 +32,11 @@ def angle_between(vec_a, vec_b):
     theta_degrees = math.degrees(theta_rads)
     return theta_degrees
 
+
 def vector_size(vec):
     size = math.sqrt(sum(x ** 2 for x in vec))
     return size
+
 
 def unit_vector(direction_vector):
     size = vector_size(direction_vector)
@@ -50,9 +47,11 @@ def unit_vector(direction_vector):
 
 
 def are_same_direction(vec_a, vec_b):
-    u_vec_a = unit_vector(vec_a)
-    u_vec_b = unit_vector(vec_b)
-    return all(map(within_ten_percent, u_vec_a, u_vec_b))
+    if _ZERO_VECTOR in (vec_a, vec_b):
+        return False
+
+    theta = angle_between(vec_a, vec_b)
+    return theta < DEGREES_TOLERANCE
 
 
 def make_vector(start, end):
