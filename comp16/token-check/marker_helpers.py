@@ -45,8 +45,9 @@ def get_direction_to_top(marker):
     return make_vector(bottom_left.world, top_left.world)
 
 
+
 def get_direction_to_right(marker):
-    """Returns the direction from the left to the right of the marker,
+    """Returns the direction from the right to the right of the marker,
        expressed as a ``WorldVector``."""
 
     top_left, top_right, _, _ = marker.vertices
