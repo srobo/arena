@@ -61,14 +61,6 @@ while True:
 
     print("I see", len(markers), "markers")
 
-    for m in markers:
-        #print(m.centre.polar, m.orientation)
-        #print(m.centre.polar)
-        print(m.info)
-        #print(m.orientation)
-        #print([v.image for v in m.vertices])
-        print([v.world for v in m.vertices])
-
     process(markers)
 
     time.sleep(0.1)
