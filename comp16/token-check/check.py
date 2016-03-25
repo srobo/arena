@@ -61,7 +61,6 @@ def process(markers):
 
     try:
         net = get_net(markers)
-        assert net == NET_C
     except Exception as e:
         print_fail(e)
     else:
