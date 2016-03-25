@@ -1,26 +1,15 @@
 
 from __future__ import print_function
 
-from collections import namedtuple
 import time
 
 from sr.robot.vision import ( Vision, C500_focal_length,
                               MARKER_TOP, MARKER_BOTTOM, MARKER_SIDE,
                               NET_A, NET_B, NET_C )
 
-BOLD = '\033[1m'
-FAIL = '\033[91m'
-OKBLUE = '\033[94m'
-ENDC = '\033[0m'
+from term import print_fail, print_ok
 
 RES = (1280,1024)
-
-def format_fail(*args):
-    msg = ' '.join(map(str, args))
-    return BOLD + FAIL + msg + ENDC
-
-def print_fail(*args, **kargs):
-    print(format_fail(*args), **kargs)
 
 def get_net(markers):
     assert markers, "No markers to get the nets of"
@@ -63,7 +52,7 @@ while True:
     except Exception as e:
         print_fail(e)
     else:
-        print(OKBLUE + net + ENDC)
+        print_ok(net)
 
     assert net == NET_C
 

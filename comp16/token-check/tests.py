@@ -1,5 +1,5 @@
 
-from utils import WorldVector, are_same_direction, within_ten_percent
+from vectors import WorldVector, are_same_direction, within_ten_percent
 
 def test_within_ten_percent():
     def check(a, b):
