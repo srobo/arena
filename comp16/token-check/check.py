@@ -29,7 +29,7 @@ def pairwise(iterable):
     return itertools.izip(a, b)
 
 
-def check_direction(name, func):
+def check_direction(name, func, markers):
 
     vectors = map(func, markers)
     all_same_direction = all(are_same_direction(*p) for p in pairwise(vectors))
@@ -60,9 +60,9 @@ def process(markers):
         print_warn("Only one marker in sight")
         return
 
-    left_dir_ok = check_direction('left', get_direction_to_token_left)
-    front_dir_ok = check_direction('front', get_direction_to_token_front)
-    top_dir_ok = check_direction('top', get_direction_to_token_top)
+    left_dir_ok = check_direction('left', get_direction_to_token_left, markers)
+    front_dir_ok = check_direction('front', get_direction_to_token_front, markers)
+    top_dir_ok = check_direction('top', get_direction_to_token_top, markers)
 
     if left_dir_ok and front_dir_ok and top_dir_ok:
         print_ok("Token valid")
