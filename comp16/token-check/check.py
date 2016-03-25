@@ -63,6 +63,7 @@ def process(markers):
         net = get_net(markers)
     except Exception as e:
         print_fail(e)
+        return
     else:
         print_ok(net)
 
