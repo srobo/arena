@@ -1,5 +1,6 @@
 
-from vectors import WorldVector, are_same_direction, unit_vector, within_ten_percent
+from vectors import WorldVector, angle_between, are_same_direction, \
+                    dot_product, unit_vector, within_ten_percent
 
 
 def test_within_ten_percent():
@@ -58,3 +59,31 @@ def test_unit_vector():
 
     yield check, WorldVector(1, 0, 0), WorldVector(1, 0, 0)
     yield check, WorldVector(2, 0, 0), WorldVector(1, 0, 0)
+
+
+def test_dot_product_self():
+    vec = WorldVector(1, 0, 0)
+    dp = dot_product(vec, vec)
+    assert dp == 1, "Dot product of a vector and itself is 1"
+
+def test_dot_product_orthogonal():
+    vec_a = WorldVector(1, 0, 0)
+    vec_b = WorldVector(0, 1, 0)
+
+    dp = dot_product(vec_a, vec_b)
+    assert dp == 0, "Dot product of two perpendicular unit vectors is 0"
+
+    dp = dot_product(vec_b, vec_a)
+    assert dp == 0, "Dot product of two perpendicular unit vectors is 0"
+
+
+def test_angle_between():
+    def check(expected, vec_a, vec_b):
+        actual = angle_between(vec_a, vec_b)
+        assert expected == actual, \
+                "Wrong angle between vectors.\n  Expected: {0}\n    Actual: {1}".format(expected, actual)
+
+    yield check, 0, WorldVector(1, 0, 0), WorldVector(1, 0, 0)
+    yield check, 180, WorldVector(1, 0, 0), WorldVector(-1, 0, 0)
+    yield check, 90, WorldVector(1, 0, 0), WorldVector(0, 1, 0)
+    yield check, 90, WorldVector(2, 0, 0), WorldVector(0, 0, 2)
