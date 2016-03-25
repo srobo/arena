@@ -10,6 +10,16 @@ _ZERO_VECTOR = WorldVector(0, 0, 0)
 DEGREES_TOLERANCE = 10
 
 
+def cross_product(vec_a, vec_b):
+    """Determines the cross product of the two vectors.
+       Given vectors A and B, ``A x B == ||A|| ||B|| sin(theta)`` where
+       theta is the angle between them.
+    """
+
+    return WorldVector( (vec_a.y * vec_b.z) - (vec_a.z * vec_b.y),
+                        (vec_a.z * vec_b.x) - (vec_a.x * vec_b.z),
+                        (vec_a.x * vec_b.y) - (vec_a.y * vec_b.x))
+
 def dot_product(vec_a, vec_b):
     """Determines the dot product of the two vectors.
        Given vectors A and B, ``A . B == ||A|| ||B|| cos(theta)`` where
