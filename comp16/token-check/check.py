@@ -9,7 +9,8 @@ from sr.robot.vision import Vision, C500_focal_length
 from marker_helpers import ( get_direction_to_token_left,
                              get_direction_to_token_front,
                              get_direction_to_token_top,
-                             get_net )
+                             get_net,
+                             NetException )
 
 from term import print_fail, print_ok, print_warn
 from vectors import angle_between, are_same_direction
@@ -75,8 +76,8 @@ def process(markers):
 
     try:
         net = get_net(markers)
-    except Exception as e:
-        print_fail(e)
+    except NetException as ne:
+        print_fail(ne)
         return False
     else:
         print_ok(net)
