@@ -7,6 +7,7 @@ def test_same_direction():
         assert are_same_direction(a, b), \
                 "{0} should be the same direction as {1}".format(a, b)
 
+    yield check, WorldVector(0.00001, 0, 1), WorldVector(-0.00001, 0, 1)
     yield check, WorldVector(1, 0, 1), WorldVector(1, 0, 1)
     yield check, WorldVector(1.1, 0, 1), WorldVector(1, 0, 1.1)
     yield check, WorldVector(2, 0, 2), WorldVector(1, 0, 1)
