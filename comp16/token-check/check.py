@@ -56,7 +56,7 @@ def see():
 
 def process(markers):
     if not markers:
-        print_warn("No markers in sight!")
+        print_warn("No markers in sight")
         return
 
     try:
