@@ -8,36 +8,16 @@ from sr.robot.vision import ( Vision, C500_focal_length,
                               MARKER_TOP, MARKER_BOTTOM, MARKER_SIDE,
                               NET_A, NET_B, NET_C )
 
+from marker_helpers import ( get_direction_out_from_face,
+                             get_direction_to_right,
+                             get_direction_to_top,
+                             get_net )
+
 from term import print_fail, print_ok
 from vectors import make_vector, are_same_direction
 
 
 RES = (1280,1024)
-
-
-def get_net(markers):
-    assert markers, "No markers to get the nets of"
-
-    nets = set()
-    for m in markers:
-        nets.add(m.info.token_net)
-
-    assert None not in nets, "Saw some non-token markers!"
-
-    assert len(nets) == 1, "Saw more than one net: {0}.".format(', '.join(nets))
-
-    return nets.pop()
-
-
-def get_direction_to_top(marker):
-    """Returns the direction from the bottom to the top of token as a
-       ``WorldVector``, according to the given marker."""
-
-    assert marker.info.marker_type == MARKER_SIDE, "Can't deal with top or bottom yet."
-
-    top_left, _, _, bottom_left = marker.vertices
-
-    return make_vector(bottom_left.world, top_left.world)
 
 
 # Via the itertools docs: https://docs.python.org/2/library/itertools.html#recipes
