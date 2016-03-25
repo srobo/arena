@@ -54,6 +54,20 @@ def see():
     return vis.see('dev', 'A', RES, False)
 
 
+def check_direction(name, func):
+
+    vectors = map(func, markers)
+    all_same_direction = all(are_same_direction(*p) for p in pairwise(vectors))
+
+    if not all_same_direction:
+        print_fail("Token invalid -- {0} directions disagree!".format(name))
+        for m in markers:
+            print_fail('-', m.info.marker_type, m.info.code)
+        for p in pairwise(vectors):
+            print(angle_between(*p))
+
+    return all_same_direction
+
 def process(markers):
     if not markers:
         print_warn("No markers in sight")
@@ -71,18 +85,11 @@ def process(markers):
         print_warn("Only one marker in sight")
         return
 
-    # do processing to check the validity
+    top_dir_ok = check_direction('top', get_direction_to_token_top)
 
-    dirs_to_top = map(get_direction_to_token_top, markers)
-    all_same_direction = all(are_same_direction(*p) for p in pairwise(dirs_to_top))
-    if all_same_direction:
+    if top_dir_ok:
         print_ok("Token valid")
-    else:
-        print_fail("Token invalid -- directions disagree!")
-        for m in markers:
-            print_fail('-', m.info.marker_type, m.info.code)
-        for p in pairwise(dirs_to_top):
-            print(angle_between(*p))
+
 
 while True:
     markers = see()
