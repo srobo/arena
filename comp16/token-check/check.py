@@ -13,7 +13,7 @@ from marker_helpers import ( get_direction_out_from_face,
                              get_direction_to_top,
                              get_net )
 
-from term import print_fail, print_ok
+from term import print_fail, print_ok, print_warn
 from vectors import make_vector, are_same_direction
 
 
@@ -34,20 +34,11 @@ vis.camera_focal_length = C500_focal_length
 def see():
     return vis.see('dev', 'A', RES, False)
 
-#print(list(pairwise('abc')))
 
-while True:
-    markers = see()
-
-    print("I see", len(markers), "markers")
-
-    for m in markers:
-        #print(m.centre.polar, m.orientation)
-        #print(m.centre.polar)
-        print(m.info)
-        #print(m.orientation)
-        #print([v.image for v in m.vertices])
-        print([v.world for v in m.vertices])
+def process(markers):
+    if not markers:
+        print_warn("No markers in sight!")
+        return
 
     try:
         net = get_net(markers)
@@ -65,6 +56,19 @@ while True:
         print("all_same_direction:", all_same_direction)
 
 
+while True:
+    markers = see()
 
+    print("I see", len(markers), "markers")
+
+    for m in markers:
+        #print(m.centre.polar, m.orientation)
+        #print(m.centre.polar)
+        print(m.info)
+        #print(m.orientation)
+        #print([v.image for v in m.vertices])
+        print([v.world for v in m.vertices])
+
+    process(markers)
 
     time.sleep(0.1)
