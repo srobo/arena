@@ -1,5 +1,6 @@
 
-from vectors import WorldVector, are_same_direction, within_ten_percent
+from vectors import WorldVector, are_same_direction, unit_vector, within_ten_percent
+
 
 def test_within_ten_percent():
     def check(a, b):
@@ -37,7 +38,7 @@ def test_same_direction():
 
     yield check, WorldVector(1, 0, 1), WorldVector(1, 0, 1)
     yield check, WorldVector(1.1, 0, 1), WorldVector(1, 0, 1.1)
-
+    yield check, WorldVector(2, 0, 2), WorldVector(1, 0, 1)
 
 def test_not_same_direction():
     def check(a, b):
@@ -48,3 +49,12 @@ def test_not_same_direction():
     yield check, WorldVector(1, 0, 1), WorldVector(0, 0, 1)
     yield check, WorldVector(1, 0, 1), WorldVector(0, 0, 0)
 
+
+def test_unit_vector():
+    def check(vec, expected):
+        unit_vec = unit_vector(vec)
+        assert expected == unit_vec, \
+                "Wrong unit vector for {0}.\n  Expected: {1}\n    Actual: {2}".format(vec, expected, unit_vec)
+
+    yield check, WorldVector(1, 0, 0), WorldVector(1, 0, 0)
+    yield check, WorldVector(2, 0, 0), WorldVector(1, 0, 0)
