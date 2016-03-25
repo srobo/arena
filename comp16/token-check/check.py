@@ -65,7 +65,10 @@ def process(markers):
     top_dir_ok = check_direction('top', get_direction_to_token_top, markers)
 
     if left_dir_ok and front_dir_ok and top_dir_ok:
-        print_ok("Token valid")
+        print_ok("Token valid", end='')
+        markers_str = ', '.join("{0} {1}".format(m.info.marker_type, m.info.code) \
+                                for m in markers)
+        print(" (based on tokens: {0})".format(markers_str))
 
 #---
 
