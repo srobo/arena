@@ -14,7 +14,7 @@ from vectors import angle_between, are_same_direction
 
 # Be very generous with the tolerance
 import vectors
-vectors.DEGREES_TOLERANCE = 30
+vectors.DEGREES_TOLERANCE = 35
 
 
 # Via the itertools docs: https://docs.python.org/2/library/itertools.html#recipes
