@@ -90,16 +90,31 @@ class TokenCheck(object):
 
     def check_direction(self, name, func, markers):
 
-        vectors = map(func, markers)
-        all_same_direction = all(are_same_direction(*p) for p in pairwise(vectors))
+        # Map: code -> marker
+        markers_map = {m.info.code: m for m in markers}
 
-        if not all_same_direction:
-            print_fail("Token invalid -- {0} directions disagree!".format(name))
+        # Map: code -> vector
+        marker_vectors = {m.info.code: func(m) for m in markers}
 
-            for m in markers:
-                print_fail('-', m.info.marker_type, m.info.code)
-            for p in pairwise(vectors):
-                print(angle_between(*p))
+        # List: all possible pairs of codes
+        code_pairs = itertools.combinations(marker_vectors.keys(), 2)
+
+        all_same_direction = True
+
+        for pair in code_pairs:
+            # normalise pair to ensure use as a dictionary key works as intended
+            pair = pair if pair[0] <= pair[1] else (pair[1], pair[0])
+
+            angle = angle_between(*[marker_vectors[code] for code in pair])
+
+            self._all_angles[pair].append(angle)
+
+            if angle >= vectors.DEGREES_TOLERANCE:
+                all_same_direction = False
+                print_fail("Token invalid -- {0} directions disagree ({1:.3f} degrees)!".format(name, angle))
+                for code in pair:
+                    kind = markers_map[code].info.marker_type
+                    print_fail('-', kind, code)
 
         return all_same_direction
 
