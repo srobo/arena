@@ -2,7 +2,7 @@
 from sr.robot import ( MARKER_TOP, MARKER_BOTTOM, MARKER_SIDE,
                        NET_A, NET_B, NET_C )
 
-from vectors import cross_product, make_vector
+from vectors import cross_product, make_vector, vector_sum
 
 
 class NetException(Exception):
@@ -163,28 +163,40 @@ def get_direction_behind_face(marker):
     return cross_product(to_right, to_top)
 
 
+# The following just use the direction vectors from one corner to another.
+# In an attempt to smooth any errors due to low resolution, we sum the
+# values from parallel edges of the marker in each case.
+
 def get_direction_to_top(marker):
     """Returns the direction from the bottom to the top of the marker,
        expressed as a ``WorldVector``."""
 
-    top_left, _, _, bottom_left = marker.vertices
+    top_left, top_right, bottom_right, bottom_left = marker.vertices
 
-    return make_vector(bottom_left.world, top_left.world)
+    up_left = make_vector(bottom_left.world, top_left.world)
+    up_right = make_vector(bottom_right.world, top_right.world)
 
+    return vector_sum(up_left, up_right)
 
 def get_direction_to_left(marker):
     """Returns the direction from the left to the right of the marker,
        expressed as a ``WorldVector``."""
 
-    top_left, top_right, _, _ = marker.vertices
+    top_left, top_right, bottom_right, bottom_left = marker.vertices
 
-    return make_vector(top_right.world, top_left.world)
+    along_top = make_vector(top_right.world, top_left.world)
+    along_bottom = make_vector(bottom_right.world, bottom_left.world)
+
+    return vector_sum(along_top, along_bottom)
 
 
 def get_direction_to_right(marker):
     """Returns the direction from the right to the right of the marker,
        expressed as a ``WorldVector``."""
 
-    top_left, top_right, _, _ = marker.vertices
+    top_left, top_right, bottom_right, bottom_left = marker.vertices
 
-    return make_vector(top_left.world, top_right.world)
+    along_top = make_vector(top_left.world, top_right.world)
+    along_bottom = make_vector(bottom_left.world, bottom_right.world)
+
+    return vector_sum(along_top, along_bottom)
