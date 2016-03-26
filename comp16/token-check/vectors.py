@@ -35,6 +35,8 @@ def angle_between(vec_a, vec_b):
        This is calculated using the definition of the dot product and
        knowing the size of the vectors.
     """
+    assert _ZERO_VECTOR not in (vec_a, vec_b), \
+            "Cannot find the angle between an empty vector and another"
 
     dp = dot_product(vec_a, vec_b)
     mod_ab = vector_size(vec_a) * vector_size(vec_b)
