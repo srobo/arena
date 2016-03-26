@@ -1,6 +1,6 @@
 
 from vectors import WorldVector, angle_between, are_same_direction, \
-                    cross_product, dot_product, unit_vector
+                    cross_product, dot_product, unit_vector, vector_sum
 
 def test_same_direction():
     def check(a, b):
@@ -30,6 +30,17 @@ def test_unit_vector():
 
     yield check, WorldVector(1, 0, 0), WorldVector(1, 0, 0)
     yield check, WorldVector(2, 0, 0), WorldVector(1, 0, 0)
+
+
+def test_vector_sum():
+    def check(expected, *vectors):
+        actual = vector_sum(*vectors)
+        assert expected == actual, \
+                "Wrong vector sum.\n  Expected: {0}\n    Actual: {1}".format(expected, actual)
+
+    yield check, WorldVector(1, 0, 0), WorldVector(1, 0, 0), WorldVector(0, 0, 0)
+    yield check, WorldVector(1, 1, 1), WorldVector(1, 0, 0), WorldVector(0, 1, 0), WorldVector(0, 0, 1)
+    yield check, WorldVector(1, 1, 0), WorldVector(1, 0, -1), WorldVector(0, 1, 1)
 
 
 def test_cross_product():

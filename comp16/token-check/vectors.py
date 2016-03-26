@@ -20,6 +20,7 @@ def cross_product(vec_a, vec_b):
                         (vec_a.z * vec_b.x) - (vec_a.x * vec_b.z),
                         (vec_a.x * vec_b.y) - (vec_a.y * vec_b.x))
 
+
 def dot_product(vec_a, vec_b):
     """Determines the dot product of the two vectors.
        Given vectors A and B, ``A . B == ||A|| ||B|| cos(theta)`` where
@@ -46,6 +47,10 @@ def angle_between(vec_a, vec_b):
 def vector_size(vec):
     size = math.sqrt(sum(x ** 2 for x in vec))
     return size
+
+
+def vector_sum(*vectors):
+    return WorldVector(*map(sum, zip(*vectors)))
 
 
 def unit_vector(direction_vector):
