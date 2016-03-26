@@ -7,7 +7,7 @@ import time
 from sr.robot.vision import Vision, C500_focal_length
 
 from token_check import TokenCheck, NetException
-from term import print_fail, print_ok, query_confirm
+from term import print_fail, print_ok, print_success, query_confirm
 
 RES = (1280,1024)
 
@@ -39,7 +39,7 @@ while True:
 
     if check.complete:
         if check.successful:
-            print_ok("Token check successful ({0}).".format(check.net))
+            print_success("Token check successful ({0}).".format(check.net))
         else:
             print_fail("Token check FAILED ({0}).".format(check.net))
         another_or_exit()
