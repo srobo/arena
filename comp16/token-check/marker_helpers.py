@@ -5,6 +5,12 @@ from sr.robot import ( MARKER_TOP, MARKER_BOTTOM, MARKER_SIDE,
 from vectors import cross_product, make_vector, vector_sum
 
 
+def describe(marker):
+    return "{0} {1}".format(marker.info.marker_type, marker.info.code)
+
+
+def describe_all(markers):
+    return ', '.join(map(describe, markers))
 
 
 def get_zone(marker):

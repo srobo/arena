@@ -4,7 +4,8 @@ from __future__ import print_function
 from collections import defaultdict
 import itertools
 
-from marker_helpers import ( get_direction_to_token_left,
+from marker_helpers import ( describe, describe_all,
+                             get_direction_to_token_left,
                              get_direction_to_token_front,
                              get_direction_to_token_top,
                            )
@@ -62,25 +63,29 @@ class TokenCheck(object):
     def check_net(self, markers):
         assert markers, "No markers to get the nets of"
 
-        nets = set()
+        # Map: net -> list of markers with that net
+        nets = defaultdict(list)
         for m in markers:
-            nets.add(m.info.token_net)
+            nets[m.info.token_net].append(m)
 
-        if None in nets:
-            raise NetException("Saw some non-token markers!")
+        non_token_markers = nets.get(None)
+        if non_token_markers:
+            others = describe_all(non_token_markers)
+            raise NetException("Saw some non-token markers: {0}!".format(others))
 
         if self.net:
-            extras = nets - set([self.net])
+            extras = set(nets.keys()) - set([self.net])
             if extras:
-                others = ', '.join(extras)
-                msg = "Saw markers from unexpected nets: {0} (expecting {1})."
-                raise NetException(msg.format(others, self.net))
+                msg = "Saw markers from unexpected nets (expecting {0}):".format(self.net)
+                for n in extras:
+                    msg += "\n {0}: {1}".format(n, describe_all(nets[n]))
+                raise NetException(msg)
 
         else:
             if len(nets) != 1:
                 raise NetException("Saw more than one net: {0}.".format(', '.join(nets)))
 
-            self.net = nets.pop()
+            self.net = nets.keys().pop()
 
 
     def check_direction(self, name, func, markers):
