@@ -1,6 +1,7 @@
 
 from __future__ import print_function
 
+from functools import partial
 import sys
 
 BOLD = '\033[1m'
@@ -12,28 +13,22 @@ ENDC = '\033[0m'
 if sys.version_info[0] == 3:
     raw_input = input
 
-def format_fail(*args):
+
+def _format(colour, *args):
     msg = ' '.join(map(str, args))
-    return BOLD + FAIL + msg + ENDC
+    return colour + msg + ENDC
 
-def print_fail(*args, **kargs):
-    print(format_fail(*args), **kargs)
-
-
-def format_warn(*args):
-    msg = ' '.join(map(str, args))
-    return BOLD + WARN + msg + ENDC
-
-def print_warn(*args, **kargs):
-    print(format_warn(*args), **kargs)
+def _print(formatter, *args, **kwargs):
+    print(formatter(*args), **kwargs)
 
 
-def format_ok(*args):
-    msg = ' '.join(map(str, args))
-    return BOLD + OKBLUE + msg + ENDC
+format_fail = partial(_format, BOLD + FAIL)
+format_warn = partial(_format, BOLD + WARN)
+format_ok = partial(_format, BOLD + OKBLUE)
 
-def print_ok(*args, **kargs):
-    print(format_ok(*args), **kargs)
+print_fail = partial(_print, format_fail)
+print_warn = partial(_print, format_warn)
+print_ok = partial(_print, format_ok)
 
 
 def query(question, yes_opts, no_opts):
