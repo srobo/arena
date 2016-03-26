@@ -5,23 +5,6 @@ from sr.robot import ( MARKER_TOP, MARKER_BOTTOM, MARKER_SIDE,
 from vectors import cross_product, make_vector, vector_sum
 
 
-class NetException(Exception):
-    pass
-
-def get_net(markers):
-    assert markers, "No markers to get the nets of"
-
-    nets = set()
-    for m in markers:
-        nets.add(m.info.token_net)
-
-    if None in nets:
-        raise NetException("Saw some non-token markers!")
-
-    if len(nets) != 1:
-        raise NetException("Saw more than one net: {0}.".format(', '.join(nets)))
-
-    return nets.pop()
 
 
 def get_zone(marker):

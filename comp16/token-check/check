@@ -6,7 +6,8 @@ import time
 
 from sr.robot.vision import Vision, C500_focal_length
 
-from token_check import process
+from token_check import TokenCheck, NetException
+from term import print_fail, print_ok, query_confirm
 
 RES = (1280,1024)
 
@@ -16,11 +17,37 @@ vis.camera_focal_length = C500_focal_length
 def see():
     return vis.see('dev', 'A', RES, False)
 
+check = TokenCheck()
+
+def another_or_exit():
+    global check
+    if query_confirm("Check another token?"):
+        check = TokenCheck()
+    else:
+        exit()
+
 while True:
     markers = see()
 
     print("I see", len(markers), "markers")
 
-    process(markers)
+    try:
+        check.process(markers)
+    except NetException as ne:
+        print_fail(ne)
+        another_or_exit()
 
-    time.sleep(0.1)
+    if check.complete:
+        if check.successful:
+            print_ok("Token check successful ({0}).".format(check.net))
+        else:
+            print_fail("Token check FAILED ({0}).".format(check.net))
+        another_or_exit()
+    else:
+        seen_so_far = check.tokens_seen
+        if seen_so_far:
+            codes = ', '.join(map(str, seen_so_far))
+            print("Seen so far: {0}.".format(codes))
+
+        # Pause a little before looping around
+        time.sleep(0.1)
