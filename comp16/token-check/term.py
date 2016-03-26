@@ -8,6 +8,7 @@ BOLD = '\033[1m'
 FAIL = '\033[91m'
 WARN = '\033[38;5;130m'
 OKBLUE = '\033[94m'
+SUCCESSGREEN = '\033[92m'
 ENDC = '\033[0m'
 
 if sys.version_info[0] == 3:
@@ -25,11 +26,12 @@ def _print(formatter, *args, **kwargs):
 format_fail = partial(_format, BOLD + FAIL)
 format_warn = partial(_format, BOLD + WARN)
 format_ok = partial(_format, BOLD + OKBLUE)
+format_success = partial(_format, BOLD + SUCCESSGREEN)
 
 print_fail = partial(_print, format_fail)
 print_warn = partial(_print, format_warn)
 print_ok = partial(_print, format_ok)
-
+print_success = partial(_print, format_success)
 
 def query(question, yes_opts, no_opts):
     options = yes_opts + no_opts
@@ -44,3 +46,9 @@ def query(question, yes_opts, no_opts):
 
 def query_confirm(question):
     return query(question + " [Y/n]: ", ('y', ''), ('n',))
+
+if __name__ == '__main__':
+    print_fail('fail')
+    print_warn('warn')
+    print_ok('ok')
+    print_success('success')
