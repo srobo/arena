@@ -33,6 +33,7 @@ print_warn = partial(_print, format_warn)
 print_ok = partial(_print, format_ok)
 print_success = partial(_print, format_success)
 
+
 def query(question, yes_opts, no_opts):
     options = yes_opts + no_opts
     while True:
@@ -46,6 +47,7 @@ def query(question, yes_opts, no_opts):
 
 def query_confirm(question):
     return query(question + " [Y/n]: ", ('y', ''), ('n',))
+
 
 if __name__ == '__main__':
     print_fail('fail')
