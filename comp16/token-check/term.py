@@ -25,11 +25,13 @@ def _print(formatter, *args, **kwargs):
 
 format_fail = partial(_format, BOLD + FAIL)
 format_warn = partial(_format, BOLD + WARN)
+format_info = partial(_format, BOLD)
 format_ok = partial(_format, BOLD + OKBLUE)
 format_success = partial(_format, BOLD + SUCCESSGREEN)
 
 print_fail = partial(_print, format_fail)
 print_warn = partial(_print, format_warn)
+print_info = partial(_print, format_info)
 print_ok = partial(_print, format_ok)
 print_success = partial(_print, format_success)
 

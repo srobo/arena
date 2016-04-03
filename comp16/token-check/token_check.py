@@ -10,7 +10,7 @@ from marker_helpers import ( describe, describe_all,
                              get_direction_to_token_top,
                            )
 
-from term import print_fail, print_ok, print_warn
+from term import print_info, print_ok, print_warn
 from vectors import angle_between, are_same_direction
 
 # Be very generous with the tolerance
@@ -111,10 +111,10 @@ class TokenCheck(object):
 
             if angle >= vectors.DEGREES_TOLERANCE:
                 all_same_direction = False
-                print_fail("Token invalid -- {0} directions disagree ({1:.3f} degrees)!".format(name, angle))
+                print_warn("Token invalid -- {0} directions disagree ({1:.3f} degrees)!".format(name, angle))
                 for code in pair:
                     kind = markers_map[code].info.marker_type
-                    print_fail('-', kind, code)
+                    print_warn('-', kind, code)
 
         return all_same_direction
 
@@ -142,13 +142,13 @@ class TokenCheck(object):
         """
 
         if not markers:
-            print_warn("No markers in sight")
+            print_info("No markers in sight")
             return
 
         self.check_net(markers)
 
         if len(markers) < 2:
-            print_warn("Only one marker in sight")
+            print_info("Only one marker in sight")
             return
 
         self.check_directions(markers)
