@@ -1,7 +1,7 @@
 
 from __future__ import print_function
 
-from collections import defaultdict
+from collections import defaultdict, Counter
 import itertools
 
 from marker_helpers import ( describe, describe_all,
@@ -20,6 +20,17 @@ vectors.DEGREES_TOLERANCE = 35
 
 class NetException(Exception):
     pass
+
+
+def median(numbers):
+    items = list(sorted(numbers))
+    count = len(items)
+    if count % 2 == 0:
+        l = items[count/2]
+        r = items[(count+1)/2]
+        return (l+r)/2.0
+    else:
+        return items[count/2]
 
 
 class TokenCheck(object):
@@ -51,6 +62,44 @@ class TokenCheck(object):
 
         return all(angle < vectors.DEGREES_TOLERANCE for angle in all_angles)
 
+    @property
+    def likely_wrong_markers(self):
+        """Determine which markers are likely wrongly placed by looking
+           at their relative angles to other markers. We assume that
+           all markers have the right net by this point.
+
+           A correct token will have all markers' angles within tolerance.
+
+           An incorrect token can feature:
+           - completely correct markers, which border no invalid markers;
+             these will have no wrong angles
+           - correct markers which border an incorrect one; these will
+             have a single pairing with an invalid angle
+           - correct markers bordering several incorrect markers
+           - incorrect markers
+           These last two categories are potentially indistinguishable,
+           since we don't collect data for all possible pairs -- we stop
+           after having seen all the markers in at least one pair each.
+
+           This property aims to return only markers in the last two categories
+           and relies on the user handling the rest.
+           This seems like a reasonable position since in all but simple
+           cases, much of the token would need re-working and then re-checking
+           anyway.
+        """
+
+        num_times_wrong = Counter()
+
+        for pair, angles in self._all_angles.items():
+            # Since we don't track which angles come from which directional
+            # comparison, there's little benefit to comparing all of them
+            if median(angles) >= vectors.DEGREES_TOLERANCE:
+                num_times_wrong[pair[0]] += 1
+                num_times_wrong[pair[1]] += 1
+
+        likely_wrong = [code for code, count in num_times_wrong.items() if count > 1]
+
+        return likely_wrong
 
     def check_net(self, markers):
         assert markers, "No markers to get the nets of"

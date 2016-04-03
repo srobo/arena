@@ -7,7 +7,7 @@ import time
 from sr.robot.vision import Vision, C500_focal_length
 
 from token_check import TokenCheck, NetException
-from term import print_fail, print_ok, print_success, query_confirm
+from term import print_fail, print_ok, print_success, print_warn, query_confirm
 
 RES = (1280,1024)
 
@@ -42,6 +42,8 @@ while True:
             print_success("Token check successful ({0}).".format(check.net))
         else:
             print_fail("Token check FAILED ({0}).".format(check.net))
+            likely_wrong = ', '.join(map(str, check.likely_wrong_markers))
+            print_warn("Check the following markers: {0}.".format(likely_wrong))
         another_or_exit()
     else:
         seen_so_far = check.tokens_seen

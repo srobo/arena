@@ -1,6 +1,21 @@
 
+from token_check import median
+
 from vectors import WorldVector, angle_between, are_same_direction, \
                     cross_product, dot_product, unit_vector, vector_sum
+
+
+def test_median():
+    def check(expected, numbers):
+        actual = median(numbers)
+        assert expected == actual, \
+                "Wrong median value for {0}.\n  Expected: {1}\n    Actual: {2}".format(numbers, expected, actual)
+
+    yield 2, [3, 0, 2]
+    yield 2, [30, 2, 1]
+    yield 1, [30, 0, -5, 1, 3]
+    yield 1.5, [2, 3, 1, 0]
+
 
 def test_same_direction():
     def check(a, b):
