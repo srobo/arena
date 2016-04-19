@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="313.63681"
-     inkscape:cy="485.11595"
+     inkscape:cx="195.13681"
+     inkscape:cy="484.11595"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -570,12 +570,12 @@
     <image
        sodipodi:absref="/home/rbarlow/srobo/git/arena/comp16/IMG_20130910_201728.jpg"
        xlink:href="IMG_20130910_201728.jpg"
-       y="286.11957"
-       x="-3.0517578e-05"
-       id="image4552"
-       preserveAspectRatio="none"
+       width="545.66931"
        height="766.24268"
-       width="545.66931" />
+       preserveAspectRatio="none"
+       id="image4552"
+       x="-3.0517578e-05"
+       y="286.11957" />
     <g
        transform="matrix(0.2222474,0,0,0.2222474,35.433037,325.98425)"
        id="g4784">
@@ -770,7 +770,7 @@
                style="font-size:8.125px;line-height:138.99999857%"
                id="flowPara5638">Bristol Technology &amp; Engineering Academy</flowPara><flowPara
                style="font-size:8.125px;line-height:138.99999857%"
-               id="flowPara5640">Bishop Wordsworth's school</flowPara><flowPara
+               id="flowPara5640">Bishop Wordsworth's School</flowPara><flowPara
                style="font-size:8.125px;line-height:138.99999857%"
                id="flowPara5642">CATS College Cambridge</flowPara><flowPara
                style="font-size:8.125px;line-height:138.99999857%"
