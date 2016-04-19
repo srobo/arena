@@ -1,0 +1,3 @@
+The flyers were ordered from helloprint.co.uk. I had to convert all text to outlines and convert the PDF saved from Inkscape to CMYK with the following command:
+
+gs -dSAFER -dBATCH -dNOPAUSE -dNOCACHE -sDEVICE=pdfwrite -sColorConversionStrategy=CMYK -dProcessColorModel=/DeviceCMYK -sOutputFile=flyer_outlined_cmyk.pdf flyer_outlined.pdf
