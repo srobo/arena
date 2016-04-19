@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="246.77634"
-     inkscape:cy="526.06068"
+     inkscape:cx="413.63171"
+     inkscape:cy="62.662997"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -570,12 +570,12 @@
     <image
        sodipodi:absref="/home/rbarlow/srobo/git/arena/comp16/IMG_20130910_201728.jpg"
        xlink:href="IMG_20130910_201728.jpg"
-       width="545.66931"
-       height="766.24268"
-       preserveAspectRatio="none"
-       id="image4552"
+       y="286.11957"
        x="-3.0517578e-05"
-       y="286.11957" />
+       id="image4552"
+       preserveAspectRatio="none"
+       height="766.24268"
+       width="545.66931" />
     <g
        transform="matrix(0.2222474,0,0,0.2222474,35.433037,325.98425)"
        id="g4784">
@@ -844,7 +844,7 @@
                style="font-size:8.125px;line-height:138.99999857%"
                id="flowPara6275">The Mirfield Free Grammar and Sixth Form</flowPara><flowPara
                style="font-size:8.125px;line-height:138.99999857%"
-               id="flowPara6279">Peter Symonds</flowPara><flowPara
+               id="flowPara6279">Peter Symonds College</flowPara><flowPara
                style="font-size:8.125px;line-height:138.99999857%"
                id="flowPara6281">Queen Elizabeth's Hospital</flowPara><flowPara
                style="font-size:8.125px;line-height:138.99999857%"
@@ -856,7 +856,7 @@
                style="font-size:8.125px;line-height:138.99999857%"
                id="flowPara6289">Southend High School for Boys</flowPara><flowPara
                style="font-size:8.125px;line-height:138.99999857%"
-               id="flowPara6291">Torquay Boy's Grammar School</flowPara><flowPara
+               id="flowPara6291">Torquay Boys' Grammar School</flowPara><flowPara
                style="font-size:8.125px;line-height:138.99999857%"
                id="flowPara6293">The Ladies' College </flowPara><flowPara
                style="font-size:8.125px;line-height:138.99999857%"
@@ -965,20 +965,20 @@
        xml:space="preserve"
        id="flowRoot7397"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-103.02531,274.40739)"><flowRegion
+       transform="translate(-106.27441,274.65379)"><flowRegion
          id="flowRegion7399"><rect
            id="rect7401"
-           width="294.32477"
-           height="189.76584"
+           width="297.9072"
+           height="189.76587"
            x="318.89761"
            y="517.32281"
            style="text-align:start;letter-spacing:0px;text-anchor:start" /></flowRegion><flowPara
          style="font-size:8.75px;text-align:start;letter-spacing:0px;text-anchor:start"
-         id="flowPara3584">Each robot is challenged with manipulating as many 'tokens' to have their colour on top. One game point is awarded for each token with the robot's colour on top and a further one awarded if it is within its corner area. There are four robots and nine tokens per match.</flowPara><flowPara
+         id="flowPara3584">Each robot is challenged with turning the most 'tokens' to have their colour on top. One game point is awarded for each token with the robot's colour on top and a further one point awarded if it is within the robot's corner area. There are four robots and nine tokens per match.</flowPara><flowPara
          style="font-size:8.75px;text-align:start;letter-spacing:0px;text-anchor:start"
          id="flowPara7178" /><flowPara
          style="font-size:8.75px;text-align:start;letter-spacing:0px;text-anchor:start"
-         id="flowPara7180">League points are awarded at the end of a three minute match as follows: 8 league points for the robot with the most game points, 4 for the second, 2 for the third and 1 league point for the robot with the fewest game points. Tied robots will be awarded the average of the points for their finishing positions - e.g. robots tied for first and second place will be awarded (8+4)÷2 = 6 league points.</flowPara><flowPara
+         id="flowPara7180">League points are awarded at the end of a three minute match as follows: 8 league points for the robot with the most game points, 4 for the second, 2 for the third and 1 league point for the robot with the fewest game points. Tied robots will be awarded the average of the points for their finishing positions - e.g. robots tied for first and second place will each be awarded (8+4)÷2 = 6 league points.</flowPara><flowPara
          style="font-size:8.75px;text-align:start;letter-spacing:0px;text-anchor:start"
          id="flowPara7429" /><flowPara
          style="font-size:8.75px;text-align:start;letter-spacing:0px;text-anchor:start"
