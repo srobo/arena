@@ -18,9 +18,15 @@ signalling the change-over from one token to the next.
 When run it will output a stream of information about what markers it can
 see, as well as what it is able to determine about the token as a result.
 
-Once it has seen all 6 sides of the token it will emit a summary of whether
-that token is correct or not. This information is based on the comparisons
-made between pairs or triples of markers which were seen at any one time.
+To check a token the user should hold the token up in front of the camera
+and slowly rotate it. This is best done by loosely holding opposite corners
+of the token level in front of you and then rolling the token either
+forwards or backwards.
+
+Once the script has seen all 6 sides of the token it will emit a summary
+of whether that token is correct or not. This information is based on the
+comparisons made between pairs or triples of markers which were seen at
+any one time.
 
 It should be noted that there are currently no checks that there is a chain
 of comparisons which includes all markers, so it is theoretically possible
