@@ -475,14 +475,19 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="372.60388"
-       y="996.36212"
+       y="984.29962"
        id="text3223"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="372.60388"
-         y="996.36212"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Eurostile;-inkscape-font-specification:'Eurostile Bold';text-align:center;text-anchor:middle"
-         id="tspan3092">Write a block-capital letter for the type of each token: A, B or C.</tspan></text>
+         y="984.29962"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Eurostile;-inkscape-font-specification:'Eurostile Bold';text-align:center;text-anchor:middle"
+         id="tspan3092">Write a block-capital letter for the type of each token: A, B or C.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Eurostile;-inkscape-font-specification:'Eurostile Bold';text-align:center;text-anchor:middle"
+         y="1009.2996"
+         x="372.60388"
+         sodipodi:role="line"
+         id="tspan4257">A = Apple (red tape), B = Banana (yellow tape), C = Coconut (white tape)</tspan></text>
     <g
        id="g4077"
        transform="translate(6.1035156e-5,-28)">
