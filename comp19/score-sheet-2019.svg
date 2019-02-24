@@ -226,14 +226,21 @@
      transform="translate(0,3.2302534e-5)">
     <g
        id="g3076"
-       transform="matrix(0.84245475,0,0,0.84245475,-7.0573794,87.40303)">
+       transform="matrix(0.84245475,0,0,0.84245475,-7.0573794,27.40303)">
+      <rect
+         y="1002.3549"
+         x="50.007309"
+         height="94.342857"
+         width="799.98535"
+         id="rect3157-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.37401485;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          y="202.36946"
          x="50.007309"
          height="799.98541"
          width="799.98535"
          id="rect3157"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.37401485;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.37401485;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          style="fill:#fff5e0;fill-opacity:1"
          id="g4055"
@@ -282,7 +289,7 @@
          id="g11459">
         <text
            xml:space="preserve"
-           style="font-size:29.73354912px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;font-size:29.73354912px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
            x="295.33633"
            y="258.69763"
            id="text11423"
@@ -299,7 +306,7 @@
            id="text11443"
            y="258.50134"
            x="592.99969"
-           style="font-size:29.73354912px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;font-size:29.73354912px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              y="258.50134"
              x="592.99969"
@@ -313,7 +320,7 @@
            id="text11431"
            y="931.48834"
            x="596.44635"
-           style="font-size:29.73354912px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;font-size:29.73354912px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              y="931.48834"
              x="596.44635"
@@ -324,7 +331,7 @@
    style="font-size:29.77926254px">Zone 2 </tspan>(purple)</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:29.73354912px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;font-size:29.73354912px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
            x="298.65375"
            y="931.48834"
            id="text11447"
@@ -338,19 +345,19 @@
    style="font-size:29.77926254px">Zone 3 </tspan>(yellow)</tspan></text>
       </g>
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.37401485;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.37401485;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
          d="m 449.99998,202.36945 0,799.98545"
          id="rect3157-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.37401485;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.37401485;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
          d="m 849.99271,602.36217 -799.98546,0"
          id="rect3157-7-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:2.98264718;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2.98264718;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3900"
          width="304.76639"
          height="304.76639"
@@ -416,7 +423,7 @@
    id="tspan4235"> (print name)</tspan>: _______________</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell Extra Bold;-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold'"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="372.60388"
        y="990.36212"
        id="text3223"
@@ -424,22 +431,22 @@
          sodipodi:role="line"
          x="372.60388"
          y="990.36212"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="tspan3092">Write a block-capital letter for the colour of each token's top face:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
+         id="tspan3092">Write a block-capital letter for the colour of token:</tspan><tspan
          sodipodi:role="line"
          x="372.60388"
          y="1015.3621"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="tspan3994">G = green, O = orange, P = purple, Y = yellow, W = white</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
+         id="tspan3994">G = green, O = orange, P = purple, Y = yellow</tspan></text>
     <g
        id="g4077"
-       transform="translate(6.1035156e-5,-28)">
+       transform="translate(6.1035156e-5,-88)">
       <text
          sodipodi:linespacing="125%"
          id="text3412"
          y="452.36215"
          x="181.97198"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan3497"
            y="452.36215"
@@ -458,14 +465,14 @@
          id="text3416"
          y="522.36212"
          x="191.22198"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="522.36212"
            x="191.22198"
            id="tspan3418"
            sodipodi:role="line">Present: ▢</tspan><tspan
            id="tspan3420"
-           y="547.42224"
+           y="547.67535"
            x="191.22198"
            sodipodi:role="line">Disqualified: ▢</tspan></text>
       <use
@@ -481,7 +488,7 @@
          id="text3412-5"
          y="372.36215"
          x="181.97198"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan3083"
            y="372.36215"
@@ -489,7 +496,7 @@
            sodipodi:role="line">TLA: _______</tspan><tspan
            style="font-size:22px"
            id="tspan3089"
-           y="401.36362"
+           y="401.47565"
            x="181.97198"
            sodipodi:role="line">(from robot)</tspan></text>
       <use
@@ -556,6 +563,17 @@
          xlink:href="#text3412"
          y="0"
          x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3412-7"
+         y="1009.5996"
+         x="371.91046"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan3497-5"
+           y="1009.5996"
+           x="371.91046"
+           sodipodi:role="line">Tokens elsewhere: __________________________</tspan></text>
     </g>
     <g
        id="Symbol-and-Text"
