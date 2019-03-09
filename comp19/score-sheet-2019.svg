@@ -459,7 +459,7 @@
          transform="matrix(0.85391045,0,0,0.85391045,-10.137349,73.180871)"
          id="g4405">
         <path
-           style="fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:0.72292703;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:0.72292703;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            d="m 200.02148,396.92578 0,344.05078 344.05079,0 0,-344.05078 -344.05079,0 z m 114.6836,114.6836 114.68359,0 0,114.68359 -114.68359,0 0,-114.68359 z"
            transform="matrix(1.0327529,0,0,1.0327529,63.337041,7.0553906)"
            id="rect3157-35-3"
@@ -537,25 +537,19 @@
                  id="text4709"
                  y="450.36215"
                  x="181.97198"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b6b6b6;fill-opacity:1;stroke:none"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bebebe;fill-opacity:1;stroke:none;"
                  xml:space="preserve"><tspan
                    id="tspan4711"
                    y="450.36215"
                    x="181.97198"
                    sodipodi:role="line"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.17406006px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#b6b6b6;fill-opacity:1">Tokens</tspan></text>
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28px;line-height:125%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                 x="181.50354"
-                 y="450.37241"
-                 id="text4713"
-                 sodipodi:linespacing="125%"><tspan
-                   sodipodi:role="line"
-                   id="tspan4715"
-                   x="181.50354"
-                   y="450.37241"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.21757507px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">__________</tspan></text>
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.17406006px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#bebebe;fill-opacity:1;">Tokens</tspan></text>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131388;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131386, 1.05131386000000004;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 141.78859,457.40487 79.77448,0"
+                 id="path4266"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cc" />
             </g>
             <g
                transform="translate(-11.282429,-22.272081)"
@@ -566,29 +560,23 @@
                  id="text4699"
                  y="450.36215"
                  x="181.97198"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b6b6b6;fill-opacity:1;stroke:none"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bebebe;fill-opacity:1;stroke:none;"
                  xml:space="preserve"><tspan
                    id="tspan4701"
                    y="450.36215"
                    x="181.97198"
                    sodipodi:role="line"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.17406082px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#b6b6b6;fill-opacity:1"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.17406082px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#bebebe;fill-opacity:1;"
                    dy="0 0 0 0 0 1.5"><tspan
-   style="font-size:12.13054466px"
+   style="font-size:12.13054466px;fill:#bebebe;fill-opacity:1;"
    id="tspan4442"
    dy="-1.5">Robot</tspan> TLAs</tspan></text>
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28px;line-height:125%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                 x="181.50354"
-                 y="450.37241"
-                 id="text4703"
-                 sodipodi:linespacing="125%"><tspan
-                   sodipodi:role="line"
-                   id="tspan4705"
-                   x="181.50354"
-                   y="450.37241"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.21757507px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">_________</tspan></text>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131388;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131386, 1.05131386000000004;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 142.31279,454.9429 79.77448,0"
+                 id="path4266-3"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cc" />
             </g>
           </g>
           <use
