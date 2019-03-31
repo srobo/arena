@@ -331,7 +331,7 @@
            x="566.37341"
            y="961.89142"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
-   id="tspan3958">Zone 2 </tspan>(purple)</tspan></text>
+   id="tspan3958">Zone 2 </tspan>(pink)</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text11447"
@@ -664,6 +664,6 @@
          x="372.61487"
          y="1026.7997"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-         id="tspan3994">G = green, O = orange, P = purple, Y = yellow</tspan></text>
+         id="tspan3994">G = green, O = orange, P = pink, Y = yellow</tspan></text>
   </g>
 </svg>
