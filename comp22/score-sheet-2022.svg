@@ -187,9 +187,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="322.5"
-     inkscape:cy="395.5"
+     inkscape:zoom="0.5"
+     inkscape:cx="383"
+     inkscape:cy="567"
      inkscape:document-units="px"
      inkscape:current-layer="g4077"
      showgrid="true"
@@ -394,11 +394,11 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="204.24445"
+       x="194.98688"
        y="148.33963"
        id="text3412-5-0"><tspan
          sodipodi:role="line"
-         x="204.24445"
+         x="194.98688"
          y="148.33963"
          id="tspan3497-4-0"
          style="font-size:28px;line-height:1.25">Match Number: _______</tspan></text>
@@ -406,27 +406,27 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="42.70953"
-       y="196.82201"
+       y="209.94701"
        id="text3412-5-0-0-7"><tspan
          sodipodi:role="line"
          x="42.70953"
-         y="196.82201"
+         y="209.94701"
          id="tspan3497-4-0-6-3"
-         style="font-size:28px;line-height:1.25">Scorer (print name): _______________________</tspan></text>
+         style="font-size:28px;line-height:1.25">Scorer (print name): ________________________________</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="372.60388"
-       y="984.29962"
+       x="373.54138"
+       y="979.61212"
        id="text3223"><tspan
          sodipodi:role="line"
-         x="372.60388"
-         y="984.29962"
+         x="373.54138"
+         y="979.61212"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
          id="tspan3092">Write a block-capital letter for the state of each can: T, B or S.</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-         y="1009.2996"
-         x="372.60388"
+         y="1004.6121"
+         x="373.54138"
          sodipodi:role="line"
          id="tspan4257">T = band at Top, B = band at Bottom, S = can on its Side</tspan></text>
     <g
@@ -462,17 +462,17 @@
            id="tspan3418"
            sodipodi:role="line"
            style="font-size:20px;line-height:1.25">Present: ▢</tspan><tspan
-           y="549.4447"
+           y="549.73877"
            x="267.56216"
            sodipodi:role="line"
            style="font-size:20px;line-height:1.25"
            id="tspan11020">Fully left Zone: ▢</tspan><tspan
            id="tspan3420"
-           y="576.52728"
+           y="577.11548"
            x="267.56216"
            sodipodi:role="line"
            style="font-size:20px;line-height:1.25">Disqualified: ▢</tspan><tspan
-           y="586.82123"
+           y="587.5271"
            x="267.56216"
            sodipodi:role="line"
            style="font-size:20px;line-height:1.25"
@@ -498,7 +498,7 @@
            style="font-size:28px;line-height:1.25">TLA: _______</tspan><tspan
            style="font-size:22px;line-height:1.25"
            id="tspan3089"
-           y="401.95761"
+           y="402.04587"
            x="181.97198"
            sodipodi:role="line">(from robot)</tspan></text>
       <use
