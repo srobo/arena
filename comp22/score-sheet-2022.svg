@@ -2,17 +2,41 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="793.70081"
    height="1122.5197"
    id="svg3147"
    version="1.1"
    viewBox="0 0 744.09448 1052.3622"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   sodipodi:docname="score-sheet-2022.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="954"
+     id="namedview96"
+     showgrid="false"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="396.69342"
+     inkscape:cy="233.1375"
+     inkscape:window-x="1600"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs3149">
     <marker
@@ -153,6 +177,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -331,34 +356,34 @@
          style="font-size:21.8723px;line-height:1.25;stroke-width:0.781155">Scorer: _______________________________</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.37386px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.781155"
-       x="34.831497"
-       y="907.56873"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.37386036px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78115499"
+       x="39.561153"
+       y="971.41901"
        id="text3412-5-0-0-7-7"><tspan
-         x="34.831497"
-         y="907.56873"
+         x="39.561153"
+         y="971.41901"
          id="tspan3497-4-0-6-3-3"
-         style="font-size:21.8723px;line-height:1.25;stroke-width:0.781155">Notes: __________________________________________________________________</tspan><tspan
-         x="34.831497"
-         y="934.90912"
-         style="font-size:21.8723px;line-height:1.25;stroke-width:0.781155"
+         style="font-size:21.87229919px;line-height:1.25;stroke-width:0.78115499">Irregularities:__________________________________________________________</tspan><tspan
+         x="39.561153"
+         y="998.75946"
+         style="font-size:21.87229919px;line-height:1.25;stroke-width:0.78115499"
          id="tspan40394">___________________________________________________________________________</tspan><tspan
-         x="34.831497"
-         y="962.24945"
-         style="font-size:21.8723px;line-height:1.25;stroke-width:0.781155"
+         x="39.561153"
+         y="1026.0999"
+         style="font-size:21.87229919px;line-height:1.25;stroke-width:0.78115499"
          id="tspan40396">___________________________________________________________________________</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="373.54138"
-       y="994.61212"
+       y="898.2511"
        id="text3223"><tspan
          x="373.54138"
-         y="994.61212"
+         y="898.2511"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-         id="tspan3092">Write a block-capital letter for the state of each can: T, B or S.</tspan><tspan
+         id="tspan3092">Cans — write a block-capital letter for the state of each: T, B or S.</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-         y="1019.6121"
+         y="923.2511"
          x="373.54138"
          id="tspan4257">T = band at Top, B = band at Bottom, S = can on its Side</tspan></text>
     <g
