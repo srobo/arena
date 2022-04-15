@@ -331,6 +331,24 @@
          style="font-size:21.8723px;line-height:1.25;stroke-width:0.781155">Scorer: _______________________________</tspan></text>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.37386px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.781155"
+       x="34.831497"
+       y="907.56873"
+       id="text3412-5-0-0-7-7"><tspan
+         x="34.831497"
+         y="907.56873"
+         id="tspan3497-4-0-6-3-3"
+         style="font-size:21.8723px;line-height:1.25;stroke-width:0.781155">Notes: __________________________________________________________________</tspan><tspan
+         x="34.831497"
+         y="934.90912"
+         style="font-size:21.8723px;line-height:1.25;stroke-width:0.781155"
+         id="tspan40394">___________________________________________________________________________</tspan><tspan
+         x="34.831497"
+         y="962.24945"
+         style="font-size:21.8723px;line-height:1.25;stroke-width:0.781155"
+         id="tspan40396">___________________________________________________________________________</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="373.54138"
        y="994.61212"
@@ -495,23 +513,5 @@
        height="30"
        x="35"
        y="156.24997" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
-       x="35.898571"
-       y="904.06244"
-       id="text35831"><tspan
-         id="tspan35829"
-         style="font-size:22.5px;stroke-width:0.9375"
-         x="35.898571"
-         y="904.06244">Notes: _________________________________________</tspan><tspan
-         style="font-size:22.5px;stroke-width:0.9375"
-         x="35.898571"
-         y="932.18744"
-         id="tspan37609">_______________________________________________</tspan><tspan
-         style="font-size:22.5px;stroke-width:0.9375"
-         x="35.898571"
-         y="960.31244"
-         id="tspan37611">_______________________________________________</tspan></text>
   </g>
 </svg>
