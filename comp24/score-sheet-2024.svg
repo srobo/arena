@@ -30,9 +30,9 @@
      inkscape:window-height="1351"
      id="namedview96"
      showgrid="false"
-     inkscape:zoom="1.4354166"
-     inkscape:cx="281.10306"
-     inkscape:cy="523.54139"
+     inkscape:zoom="1.1913788"
+     inkscape:cx="175.84668"
+     inkscape:cy="403.31422"
      inkscape:window-x="3831"
      inkscape:window-y="407"
      inkscape:window-maximized="1"
@@ -264,7 +264,7 @@
            x="596.44635"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:341.819;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none"
            xml:space="preserve"
-           transform="translate(-149.58458,-198.58154)"><tspan
+           transform="translate(-149.58458,-202.89666)"><tspan
              x="596.44635"
              y="931.48834"
              id="tspan25"><tspan
@@ -525,13 +525,23 @@
         <text
            id="use3572-8-95"
            y="894.43408"
-           x="402.841"
+           x="402.84097"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8661px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              id="tspan3-4-4"
              y="894.43408"
-             x="484.39508"
+             x="484.39505"
              style="font-size:20.8661px;line-height:1.25">Asteroids: _______</tspan></text>
+        <text
+           id="use3572-8-95-1"
+           y="858.99164"
+           x="374.96515"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8661px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan3-4-4-9"
+             y="858.99164"
+             x="456.51923"
+             style="font-size:20.8661px;line-height:1.25">'Ship Asteroids: _______</tspan></text>
         <text
            id="use3572-1-1-4"
            y="929.52094"
@@ -544,18 +554,6 @@
              style="font-size:28px;line-height:1.25"><tspan
                style="font-size:20.8661px"
                id="tspan21-49-2">Spaceships: _______</tspan></tspan></text>
-        <text
-           id="use3572-1-5-2-7"
-           y="580.14191"
-           x="142.26167"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8661px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:226.419;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"
-           transform="translate(314.63371,278.85653)"><tspan
-             x="142.26167"
-             y="580.14191"
-             id="tspan58"><tspan
-               style="line-height:1.25;text-align:start;text-anchor:start"
-               id="tspan57">'Ship Asteroids: _______</tspan></tspan></text>
       </g>
       <use
          x="0"
