@@ -31,12 +31,12 @@
      id="namedview96"
      showgrid="false"
      inkscape:zoom="1.1913788"
-     inkscape:cx="175.84668"
-     inkscape:cy="403.31422"
+     inkscape:cx="329.45021"
+     inkscape:cy="502.35912"
      inkscape:window-x="3831"
      inkscape:window-y="407"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4077"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
@@ -255,7 +255,7 @@
    id="tspan8"> </tspan></tspan><tspan
              x="249.17012"
              y="519.90006"
-             id="tspan21"><tspan
+             id="tspan15"><tspan
                style="font-size:22.0587px;line-height:1.25"
                id="tspan9">(orange)</tspan></tspan></text>
         <text
@@ -267,11 +267,11 @@
            transform="translate(-149.58458,-202.89666)"><tspan
              x="596.44635"
              y="931.48834"
-             id="tspan25"><tspan
+             id="tspan18"><tspan
                style="font-size:29.7793px;line-height:1.25"
-               id="tspan22">Planet 2 </tspan><tspan
+               id="tspan16">Planet 2 </tspan><tspan
                style="font-size:22.0587px;line-height:1.25"
-               id="tspan24">(purple)</tspan></tspan></text>
+               id="tspan17">(purple)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:165.286;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none"
@@ -281,16 +281,16 @@
            transform="translate(-307.38117,-341.281)"><tspan
              x="448.96237"
              y="714.29242"
-             id="tspan27"><tspan
+             id="tspan20"><tspan
    style="font-size:29.7793px"
-   id="tspan26">Planet 3</tspan><tspan
+   id="tspan19">Planet 3</tspan><tspan
    y="714.29242"
-   id="tspan28"> </tspan></tspan><tspan
+   id="tspan21"> </tspan></tspan><tspan
              x="448.96237"
              y="741.86579"
-             id="tspan30"><tspan
+             id="tspan23"><tspan
                style="font-size:22.0587px;line-height:1.25"
-               id="tspan29">(yellow)</tspan></tspan></text>
+               id="tspan22">(yellow)</tspan></tspan></text>
       </g>
       <path
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.32202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -438,64 +438,71 @@
          x="211.64474"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9537px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:503.7;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"
-         transform="translate(106.67574,-368.29897)"><tspan
+         transform="translate(106.67574,-366.34278)"><tspan
            x="211.64474"
            y="677.44275"
-           id="tspan34"><tspan
+           id="tspan27"><tspan
              style="line-height:1.25"
-             id="tspan31">Present: </tspan><tspan
+             id="tspan24">Present: </tspan><tspan
              style="line-height:1.25"
-             id="tspan32">▢</tspan><tspan
+             id="tspan25">▢</tspan><tspan
              style="line-height:1.25"
-             id="tspan33">&#10;</tspan></tspan><tspan
+             id="tspan26">&#10;</tspan></tspan><tspan
            x="211.64474"
            y="698.77072"
-           id="tspan38"><tspan
+           id="tspan31"><tspan
              style="line-height:1.25"
-             id="tspan35">Fully Left Zone: </tspan><tspan
+             id="tspan28">Fully Left Zone: </tspan><tspan
              style="line-height:1.25"
-             id="tspan36">▢</tspan><tspan
+             id="tspan29">▢</tspan><tspan
              style="line-height:1.25"
-             id="tspan37">&#10;</tspan></tspan><tspan
+             id="tspan30">&#10;</tspan></tspan><tspan
            x="211.64474"
            y="720.09866"
-           id="tspan42"><tspan
+           id="tspan35"><tspan
              style="line-height:1.25"
-             id="tspan39">Egg on Planet: </tspan><tspan
+             id="tspan32">Egg on Planet: </tspan><tspan
              style="line-height:1.25"
-             id="tspan40">▢</tspan><tspan
+             id="tspan33">▢</tspan><tspan
              style="line-height:1.25"
-             id="tspan41">&#10;</tspan></tspan><tspan
+             id="tspan34">&#10;</tspan></tspan><tspan
            x="211.64474"
            y="741.42661"
-           id="tspan46"><tspan
+           id="tspan39"><tspan
              style="line-height:1.25"
-             id="tspan43">Egg in 'Ship: </tspan><tspan
+             id="tspan36">Egg in 'Ship: </tspan><tspan
              style="line-height:1.25"
-             id="tspan44">▢</tspan><tspan
+             id="tspan37">▢</tspan><tspan
              style="line-height:1.25"
-             id="tspan45">&#10;</tspan></tspan><tspan
+             id="tspan38">&#10;</tspan></tspan><tspan
            x="211.64474"
            y="762.75455"
-           id="tspan50"><tspan
+           id="tspan42"><tspan
              style="line-height:1.25"
-             id="tspan48">Disqualified: </tspan><tspan
+             id="tspan40">Disqualified: </tspan><tspan
              style="line-height:1.25"
-             id="tspan49">▢</tspan></tspan></text>
-      <text
-         id="use3570-5"
-         y="441.64584"
-         x="371.71994"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan5-5"
-           y="441.64584"
+             id="tspan41">▢</tspan></tspan></text>
+      <g
+         id="g1">
+        <text
+           id="use3570-5"
+           y="447.51447"
            x="371.71994"
-           style="font-size:28px;line-height:1.25">TLA: _______</tspan><tspan
-           style="font-size:18px;line-height:1.25"
-           id="tspan6-7"
-           y="471.32953"
-           x="371.71994">(from robot)</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bfbfbf;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan5-5"
+             y="447.51447"
+             x="371.71994"
+             style="font-size:32.6032px;line-height:1.25;fill:#bfbfbf;fill-opacity:1">TLA</tspan><tspan
+             style="font-size:18px;line-height:1.25;fill:#636363;fill-opacity:1"
+             id="tspan6-7"
+             y="477.19815"
+             x="371.71994">(from robot)</tspan></text>
+        <path
+           d="M 322.19689,456.92658 H 421.243"
+           style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.02095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.02095, 2.02095;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1-0-0-8" />
+      </g>
       <text
          id="use3572-0"
          y="584.20441"
@@ -505,110 +512,170 @@
          transform="translate(67.315745,8.7189491)"><tspan
            x="304.73135"
            y="584.20441"
-           id="tspan51">Asteroids&#10;</tspan><tspan
+           id="tspan43">Spaceships&#10;</tspan><tspan
            x="304.73135"
            y="605.07052"
-           id="tspan53"><tspan
+           id="tspan45"><tspan
              style="font-size:18.2578px"
-             id="tspan52">(not on planet)&#10;</tspan></tspan><tspan
+             id="tspan44">(not on planet)&#10;</tspan></tspan><tspan
            x="304.73135"
            y="625.93661"
-           id="tspan54">&#10;</tspan><tspan
+           id="tspan46">&#10;</tspan><tspan
            x="304.73135"
            y="654.99124"
-           id="tspan56"><tspan
+           id="tspan48"><tspan
              style="font-size:31.2991px"
-             id="tspan55">_____</tspan></tspan></text>
+             id="tspan47">_____</tspan></tspan></text>
       <g
          id="g57"
-         transform="translate(11.932481,-541.05463)">
+         transform="translate(11.932481,-549.84372)">
         <text
            id="use3572-8-95"
-           y="894.43408"
-           x="402.84097"
+           y="900.98181"
+           x="381.35266"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8661px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              id="tspan3-4-4"
-             y="894.43408"
-             x="484.39505"
-             style="font-size:20.8661px;line-height:1.25">Asteroids: _______</tspan></text>
+             y="900.98181"
+             x="462.90674"
+             style="font-size:20.8661px;line-height:1.25;fill:#bfbfbf;fill-opacity:1">Planet Asteroids</tspan></text>
         <text
            id="use3572-8-95-1"
-           y="858.99164"
-           x="374.96515"
+           y="864.86017"
+           x="373.45145"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8661px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              id="tspan3-4-4-9"
-             y="858.99164"
-             x="456.51923"
-             style="font-size:20.8661px;line-height:1.25">'Ship Asteroids: _______</tspan></text>
+             y="864.86017"
+             x="455.00552"
+             style="font-size:20.8661px;line-height:1.25;fill:#bfbfbf;fill-opacity:1">'Ship Asteroids</tspan></text>
+        <path
+           d="M 379.23856,948.84728 H 547.04279"
+           style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.6305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.6305, 2.6305;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1-0-0" />
+        <path
+           d="M 379.23856,908.81331 H 547.04279"
+           style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.6305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.6305, 2.6305;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1-0-0-4" />
+        <path
+           d="M 379.23856,873.58833 H 547.04279"
+           style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.6305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.6305, 2.6305;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1-0-0-4-7" />
         <text
            id="use3572-1-1-4"
-           y="929.52094"
-           x="476.448"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           y="940.11914"
+           x="435.47412"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bfbfbf;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              id="tspan3-5-7-6"
-             y="929.52094"
-             x="476.448"
-             style="font-size:28px;line-height:1.25"><tspan
-               style="font-size:20.8661px"
-               id="tspan21-49-2">Spaceships: _______</tspan></tspan></text>
+             y="940.11914"
+             x="435.47412"
+             style="font-size:28px;line-height:1.25;fill:#bfbfbf;fill-opacity:1"><tspan
+               style="font-size:20.8661px;fill:#bfbfbf;fill-opacity:1"
+               id="tspan21-49-2">Spaceships</tspan></tspan></text>
       </g>
       <use
          x="0"
          y="0"
          xlink:href="#g57"
          id="use60"
-         transform="translate(108.48505,257.47034)" />
+         transform="translate(130.43571,266.25943)" />
       <use
          x="0"
          y="0"
          xlink:href="#use60"
          id="use61"
-         transform="translate(-108.48505,289.6476)" />
+         transform="translate(-130.43571,278.90232)" />
       <use
          x="0"
          y="0"
          xlink:href="#use61"
          id="use62"
-         transform="translate(-310.22518,-289.6476)" />
+         transform="translate(-342.46602,-278.90232)" />
       <use
          x="0"
          y="0"
          xlink:href="#text3416-6-3"
          id="use63"
-         transform="translate(373.32786,384.78538)" />
+         transform="translate(372.92846,382.82919)" />
       <use
          x="0"
          y="0"
          xlink:href="#use63"
          id="use64"
-         transform="translate(-499.46836)" />
+         transform="translate(-497.11277)" />
       <use
          x="0"
          y="0"
          xlink:href="#use64"
          id="use65"
-         transform="translate(126.1405,162.33256)" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#use3570-5"
-         id="use66"
-         transform="translate(244.44005,54.506527)" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#use66"
-         id="use67"
-         transform="translate(-496.37601)" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#use67"
-         id="use68"
-         transform="matrix(0.99999722,0,0,1,251.93631,299.05111)" />
+         transform="translate(124.18431,162.33256)" />
+      <g
+         id="g10"
+         transform="translate(263.1593,62.696113)">
+        <text
+           id="text10"
+           y="447.51447"
+           x="371.71994"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bfbfbf;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan4"
+             y="447.51447"
+             x="371.71994"
+             style="font-size:32.6032px;line-height:1.25;fill:#bfbfbf;fill-opacity:1">TLA</tspan><tspan
+             style="font-size:18px;line-height:1.25;fill:#636363;fill-opacity:1"
+             id="tspan10"
+             y="477.19815"
+             x="371.71994">(from robot)</tspan></text>
+        <path
+           d="M 322.19689,456.92658 H 421.243"
+           style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.02095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.02095, 2.02095;stroke-dashoffset:0;stroke-opacity:1"
+           id="path10" />
+      </g>
+      <g
+         id="g12"
+         transform="translate(-268.48319,65.598711)">
+        <text
+           id="text12"
+           y="447.51447"
+           x="371.71994"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bfbfbf;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan11"
+             y="447.51447"
+             x="371.71994"
+             style="font-size:32.6032px;line-height:1.25;fill:#bfbfbf;fill-opacity:1">TLA</tspan><tspan
+             style="font-size:18px;line-height:1.25;fill:#636363;fill-opacity:1"
+             id="tspan12"
+             y="477.19815"
+             x="371.71994">(from robot)</tspan></text>
+        <path
+           d="M 322.19689,456.92658 H 421.243"
+           style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.02095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.02095, 2.02095;stroke-dashoffset:0;stroke-opacity:1"
+           id="path12" />
+      </g>
+      <g
+         id="g14"
+         transform="translate(0.30763238,343.66758)">
+        <text
+           id="text14"
+           y="447.51447"
+           x="371.71994"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bfbfbf;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan13"
+             y="447.51447"
+             x="371.71994"
+             style="font-size:32.6032px;line-height:1.25;fill:#bfbfbf;fill-opacity:1">TLA</tspan><tspan
+             style="font-size:18px;line-height:1.25;fill:#636363;fill-opacity:1"
+             id="tspan14"
+             y="477.19815"
+             x="371.71994">(from robot)</tspan></text>
+        <path
+           d="M 322.19689,456.92658 H 421.243"
+           style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.02095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.02095, 2.02095;stroke-dashoffset:0;stroke-opacity:1"
+           id="path14" />
+      </g>
     </g>
     <g
        id="Symbol-and-Text"
