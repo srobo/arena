@@ -30,13 +30,13 @@
      inkscape:window-height="1351"
      id="namedview96"
      showgrid="false"
-     inkscape:zoom="1.1913788"
-     inkscape:cx="146.88863"
-     inkscape:cy="546.00602"
+     inkscape:zoom="1.0033856"
+     inkscape:cx="31.892025"
+     inkscape:cy="389.18237"
      inkscape:window-x="3831"
      inkscape:window-y="407"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4077"
+     inkscape:current-layer="g57"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
@@ -61,6 +61,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3149">
+    <rect
+       x="180.40854"
+       y="673.71313"
+       width="121.91671"
+       height="41.57853"
+       id="rect72" />
+    <rect
+       x="175.00731"
+       y="660.99884"
+       width="84.356042"
+       height="46.164998"
+       id="rect39" />
     <marker
        orient="auto"
        refY="0"
@@ -234,11 +246,11 @@
            transform="translate(220.66737,52.212133)"><tspan
              x="226.19437"
              y="412.01242"
-             id="tspan6"><tspan
+             id="tspan25"><tspan
                style="font-size:29.7793px;line-height:1.25"
-               id="tspan2">Planet 0 </tspan><tspan
+               id="tspan1">Planet 0 </tspan><tspan
                style="font-size:22.0587px;line-height:1.25"
-               id="tspan5">(green)</tspan></tspan></text>
+               id="tspan3">(green)</tspan></tspan></text>
         <text
            id="text11443"
            y="492.32669"
@@ -248,16 +260,16 @@
            transform="translate(502.47161,-117.21697)"><tspan
              x="249.17012"
              y="492.32669"
-             id="tspan8"><tspan
+             id="tspan27"><tspan
    style="font-size:29.7793px"
-   id="tspan7">Planet 1</tspan><tspan
+   id="tspan26">Planet 1</tspan><tspan
    y="492.32669"
-   id="tspan9"> </tspan></tspan><tspan
+   id="tspan28"> </tspan></tspan><tspan
              x="249.17012"
              y="519.90006"
-             id="tspan16"><tspan
+             id="tspan30"><tspan
                style="font-size:22.0587px;line-height:1.25"
-               id="tspan15">(orange)</tspan></tspan></text>
+               id="tspan29">(orange)</tspan></tspan></text>
         <text
            id="text11431"
            y="931.48834"
@@ -267,11 +279,11 @@
            transform="translate(-149.58458,-202.89666)"><tspan
              x="596.44635"
              y="931.48834"
-             id="tspan19"><tspan
+             id="tspan33"><tspan
                style="font-size:29.7793px;line-height:1.25"
-               id="tspan17">Planet 2 </tspan><tspan
+               id="tspan31">Planet 2 </tspan><tspan
                style="font-size:22.0587px;line-height:1.25"
-               id="tspan18">(purple)</tspan></tspan></text>
+               id="tspan32">(purple)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:165.286;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none"
@@ -281,16 +293,16 @@
            transform="translate(-305.22361,-339.12344)"><tspan
              x="448.96237"
              y="714.29242"
-             id="tspan21"><tspan
+             id="tspan35"><tspan
    style="font-size:29.7793px"
-   id="tspan20">Planet 3</tspan><tspan
+   id="tspan34">Planet 3</tspan><tspan
    y="714.29242"
-   id="tspan22"> </tspan></tspan><tspan
+   id="tspan36"> </tspan></tspan><tspan
              x="448.96237"
              y="741.86579"
-             id="tspan24"><tspan
+             id="tspan38"><tspan
                style="font-size:22.0587px;line-height:1.25"
-               id="tspan23">(yellow)</tspan></tspan></text>
+               id="tspan37">(yellow)</tspan></tspan></text>
       </g>
       <path
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.32202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -433,129 +445,6 @@
            x="528.82782"
            style="font-size:28.6908px;line-height:1.25">Robot 2: ____________</tspan></text>
       <g
-         id="g39"
-         transform="translate(9.1015449)">
-        <text
-           id="text3416-6-3"
-           y="677.44275"
-           x="211.64474"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6495px;line-height:0;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:503.7;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"
-           transform="translate(106.67574,-373.12427)"><tspan
-             x="211.64474"
-             y="677.44275"
-             id="tspan28"><tspan
-               style="line-height:135%"
-               id="tspan25">Present </tspan><tspan
-               style="line-height:135%"
-               id="tspan26">▢</tspan><tspan
-               style="line-height:135%"
-               id="tspan27">&#10;</tspan></tspan><tspan
-             x="211.64474"
-             y="698.69496"
-             id="tspan32"><tspan
-               style="line-height:135%"
-               id="tspan29">Fully Left Planet </tspan><tspan
-               style="line-height:135%"
-               id="tspan30">▢</tspan><tspan
-               style="line-height:135%"
-               id="tspan31">&#10;</tspan></tspan><tspan
-             x="211.64474"
-             y="719.94716"
-             id="tspan35"><tspan
-               style="line-height:135%"
-               id="tspan33">Disqualified </tspan><tspan
-               style="line-height:135%"
-               id="tspan34">▢</tspan></tspan></text>
-        <text
-           id="text3416-6-3-5"
-           y="677.44275"
-           x="211.64474"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9537px;line-height:0;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:503.7;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"
-           transform="translate(106.67574,-319.46716)"><tspan
-             x="211.64474"
-             y="677.44275"
-             id="tspan37"><tspan
-               style="line-height:135%"
-               id="tspan36">&#10;</tspan></tspan><tspan
-             x="211.64474"
-             y="700.33028"
-             id="tspan42"><tspan
-               style="line-height:135%"
-               id="tspan38">E</tspan><tspan
-               style="font-size:15.6495px"
-               id="tspan39">gg on Planet </tspan><tspan
-               style="font-size:15.6495px"
-               id="tspan40">▢</tspan><tspan
-               style="font-size:15.6495px"
-               id="tspan41">&#10;</tspan></tspan><tspan
-             x="211.64474"
-             y="723.34318"
-             id="tspan45"><tspan
-               style="font-size:15.6495px"
-               id="tspan43">Egg in 'Ship </tspan><tspan
-               style="font-size:15.6495px"
-               id="tspan44">▢</tspan></tspan></text>
-      </g>
-      <g
-         id="g39-3"
-         transform="translate(-119.07381,229.05305)">
-        <text
-           id="text3416-6-3-3"
-           y="677.44275"
-           x="66.099808"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6495px;line-height:0;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:503.7;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"
-           transform="translate(601.72586,-215.49638)"><tspan
-             x="66.099808"
-             y="677.44275"
-             id="tspan49"><tspan
-               style="line-height:135%;text-align:start;text-anchor:start"
-               id="tspan47">▢</tspan><tspan
-               style="line-height:135%;text-align:start;text-anchor:start"
-               id="tspan48"> Present&#10;</tspan></tspan><tspan
-             x="66.099808"
-             y="698.69496"
-             id="tspan52"><tspan
-               style="line-height:135%;text-align:start;text-anchor:start"
-               id="tspan50">▢</tspan><tspan
-               style="line-height:135%;text-align:start;text-anchor:start"
-               id="tspan51"> Fully Left Planet&#10;</tspan></tspan><tspan
-             x="66.099808"
-             y="719.94716"
-             id="tspan55"><tspan
-               style="line-height:135%;text-align:start;text-anchor:start"
-               id="tspan53">▢</tspan><tspan
-               style="line-height:135%;text-align:start;text-anchor:start"
-               id="tspan54"> Disqualified</tspan></tspan></text>
-      </g>
-      <g
-         id="g39-3-6"
-         transform="translate(-116.61087,291.27824)">
-        <text
-           id="text3416-6-3-3-1"
-           y="677.44275"
-           x="66.099808"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6495px;line-height:0;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:503.7;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"
-           transform="translate(599.26292,-199.41624)"><tspan
-             x="66.099808"
-             y="677.44275"
-             id="tspan58"><tspan
-               style="line-height:135%;text-align:start;text-anchor:start"
-               id="tspan56">▢</tspan><tspan
-               style="line-height:135%;text-align:start;text-anchor:start"
-               id="tspan57"> Egg on Planet&#10;</tspan></tspan><tspan
-             x="66.099808"
-             y="698.69496"
-             id="tspan61"><tspan
-               style="line-height:135%;text-align:start;text-anchor:start"
-               id="tspan59">▢</tspan><tspan
-               style="line-height:135%;text-align:start;text-anchor:start"
-               id="tspan60"> Egg in 'Ship</tspan></tspan></text>
-      </g>
-      <g
          id="g39-7"
          transform="translate(-366.70517,210.55779)" />
       <g
@@ -581,84 +470,88 @@
       </g>
       <g
          id="g57"
-         transform="translate(11.932481,-549.84372)">
-        <text
-           id="use3572-8-95"
-           y="900.98181"
-           x="381.35266"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8661px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan3-4-4"
-             y="900.98181"
-             x="462.90674"
-             style="font-size:20.8661px;line-height:1.25;fill:#bfbfbf;fill-opacity:1">Planet Asteroids</tspan></text>
-        <text
-           id="use3572-8-95-1"
-           y="864.86017"
-           x="373.45145"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8661px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan3-4-4-9"
+         transform="translate(11.932481,-546.64505)">
+        <g
+           id="g73"
+           transform="translate(0,0.26653331)">
+          <g
+             id="g75">
+            <text
+               id="use3572-8-95"
+               y="901.9566"
+               x="381.79077"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8661px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+               xml:space="preserve"><tspan
+                 id="tspan3-4-4"
+                 y="901.9566"
+                 x="463.34485"
+                 style="font-size:20.8661px;line-height:1.25;fill:#bfbfbf;fill-opacity:1">Planet Asteroids</tspan></text>
+            <path
+               d="M 379.23856,911.2178 H 547.04279"
+               style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.6305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.6305, 2.6305;stroke-dashoffset:0;stroke-opacity:1"
+               id="path1-0-0-4" />
+          </g>
+        </g>
+        <g
+           id="g72"
+           transform="translate(0,-1.9561931)">
+          <text
+             id="use3572-8-95-1"
              y="864.86017"
-             x="455.00552"
-             style="font-size:20.8661px;line-height:1.25;fill:#bfbfbf;fill-opacity:1">'Ship Asteroids</tspan></text>
-        <path
-           d="M 379.23856,948.84728 H 547.04279"
-           style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.6305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.6305, 2.6305;stroke-dashoffset:0;stroke-opacity:1"
-           id="path1-0-0" />
-        <path
-           d="M 379.23856,911.2178 H 547.04279"
-           style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.6305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.6305, 2.6305;stroke-dashoffset:0;stroke-opacity:1"
-           id="path1-0-0-4" />
-        <path
-           d="M 379.23856,873.58833 H 547.04279"
-           style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.6305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.6305, 2.6305;stroke-dashoffset:0;stroke-opacity:1"
-           id="path1-0-0-4-7" />
-        <text
-           id="use3572-1-1-4"
-           y="940.11914"
-           x="435.47412"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bfbfbf;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan3-5-7-6"
+             x="373.45145"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8661px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               id="tspan3-4-4-9"
+               y="864.86017"
+               x="455.00552"
+               style="font-size:20.8661px;line-height:1.25;fill:#bfbfbf;fill-opacity:1">'Ship Asteroids</tspan></text>
+          <path
+             d="M 379.23856,873.58833 H 547.04279"
+             style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.6305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.6305, 2.6305;stroke-dashoffset:0;stroke-opacity:1"
+             id="path1-0-0-4-7" />
+        </g>
+        <g
+           id="g74"
+           transform="translate(0,1.9561931)">
+          <path
+             d="M 379.23856,948.84728 H 547.04279"
+             style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:2.6305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.6305, 2.6305;stroke-dashoffset:0;stroke-opacity:1"
+             id="path1-0-0" />
+          <text
+             id="use3572-1-1-4"
              y="940.11914"
              x="435.47412"
-             style="font-size:28px;line-height:1.25;fill:#bfbfbf;fill-opacity:1"><tspan
-               style="font-size:20.8661px;fill:#bfbfbf;fill-opacity:1"
-               id="tspan21-49-2">Spaceships</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:6.52065px;line-height:135%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#636363;stroke-width:2.21805;stroke-dasharray:2.21805, 2.21805"
-           x="428.40121"
-           y="907.50623"
-           id="text46"><tspan
-             sodipodi:role="line"
-             id="tspan46"
-             style="stroke-width:2.21805"
-             x="428.40121"
-             y="907.50623">`</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bfbfbf;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               id="tspan3-5-7-6"
+               y="940.11914"
+               x="435.47412"
+               style="font-size:28px;line-height:1.25;fill:#bfbfbf;fill-opacity:1"><tspan
+                 style="font-size:20.8661px;fill:#bfbfbf;fill-opacity:1"
+                 id="tspan21-49-2">Spaceships</tspan></tspan></text>
+        </g>
       </g>
       <use
          x="0"
          y="0"
          xlink:href="#g57"
          id="use60"
-         transform="translate(132.3919,254.52229)" />
+         transform="translate(132.25055,265.09109)" />
       <use
          x="0"
          y="0"
          xlink:href="#use60"
          id="use61"
-         transform="translate(-132.3919,290.63946)" />
+         transform="translate(-132.25055,273.49684)" />
       <use
          x="0"
          y="0"
          xlink:href="#use61"
          id="use62"
-         transform="translate(-344.42221,-290.63946)" />
+         transform="translate(-344.28084,-273.49684)" />
       <g
          id="g10"
-         transform="translate(265.11549,53.861553)">
+         transform="translate(265.58625,53.861553)">
         <text
            id="text10"
            y="447.51447"
@@ -680,7 +573,7 @@
       </g>
       <g
          id="g12"
-         transform="translate(-270.43938,53.861553)">
+         transform="translate(-270.298,53.861553)">
         <text
            id="text12"
            y="447.51447"
@@ -748,18 +641,119 @@
              id="path1-0-0-8-6" />
         </g>
       </g>
+      <g
+         id="g69"
+         transform="translate(15.649545,1.4120965)">
+        <g
+           id="g71">
+          <text
+             xml:space="preserve"
+             style="font-size:16.9537px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:2.21805;stroke-dasharray:2.21805, 2.21805"
+             x="296.25101"
+             y="307.71832"
+             id="text54"><tspan
+               sodipodi:role="line"
+               id="tspan54"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9537px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;stroke-width:2.21805"
+               x="296.25101"
+               y="307.71832">Present ▢</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9537px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;stroke-width:2.21805"
+               x="296.25101"
+               y="329.89398"
+               id="tspan55">Fully left Planet ▢</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9537px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;stroke-width:2.21805"
+               x="296.25101"
+               y="352.06964"
+               id="tspan58">Disqualified ▢</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:16.9537px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:2.21805;stroke-dasharray:2.21805, 2.21805"
+             x="296.25101"
+             y="381.19092"
+             id="text54-0"><tspan
+               sodipodi:role="line"
+               id="tspan54-6"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9537px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;stroke-width:2.21805"
+               x="296.25101"
+               y="381.19092">Egg on Planet ▢</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9537px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;stroke-width:2.21805"
+               x="296.25101"
+               y="403.36658"
+               id="tspan58-7">Egg in 'Ship ▢</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.97809654,0,0,0.97809654,-31.779971,90.023491)"
+             id="text72"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;white-space:pre;shape-inside:url(#rect72);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.26772;stroke-dasharray:2.26772, 2.26772" />
+        </g>
+      </g>
+      <g
+         id="g70"
+         transform="translate(0,28.092701)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9537px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:2.21805;stroke-dasharray:2.21805, 2.21805"
+           x="45.052444"
+           y="685.23303"
+           id="text64"><tspan
+             sodipodi:role="line"
+             id="tspan64"
+             style="font-size:16.9537px;stroke-width:2.21805"
+             x="45.052444"
+             y="685.23303">▢ Present</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:16.9537px;stroke-width:2.21805"
+             x="45.052444"
+             y="707.40869"
+             id="tspan65">▢ Fully left Planet</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:16.9537px;stroke-width:2.21805"
+             x="45.052444"
+             y="729.58435"
+             id="tspan68">▢ Disqualified</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9537px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:2.21805;stroke-dasharray:2.21805, 2.21805"
+           x="45.052444"
+           y="758.63727"
+           id="text64-3"><tspan
+             sodipodi:role="line"
+             id="tspan64-7"
+             style="font-size:16.9537px;stroke-width:2.21805"
+             x="45.052444"
+             y="758.63727">▢ Egg on Planet</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:16.9537px;stroke-width:2.21805"
+             x="45.052444"
+             y="780.81293"
+             id="tspan68-0">▢ Egg in 'Ship</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6495px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:2.21805;stroke-dasharray:2.21805, 2.21805"
+         x="79.103096"
+         y="694.26373"
+         id="text63"><tspan
+           sodipodi:role="line"
+           id="tspan63"
+           style="stroke-width:2.21805"
+           x="79.103096"
+           y="694.26373" /></text>
       <use
          x="0"
          y="0"
-         xlink:href="#g39"
-         id="use48"
-         transform="translate(366.25384,386.68094)" />
+         xlink:href="#g69"
+         id="use71"
+         transform="translate(381.77513,404.12695)" />
       <use
          x="0"
          y="0"
-         xlink:href="#use48"
-         id="use52"
-         transform="translate(-366.25384,153.12024)" />
+         xlink:href="#use71"
+         id="use72"
+         transform="translate(-381.77513,134.46098)" />
     </g>
     <g
        id="Symbol-and-Text"
