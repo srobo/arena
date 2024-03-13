@@ -246,11 +246,11 @@
            transform="translate(220.66737,52.212133)"><tspan
              x="226.19437"
              y="412.01242"
-             id="tspan25"><tspan
+             id="tspan6"><tspan
                style="font-size:29.7793px;line-height:1.25"
-               id="tspan1">Planet 0 </tspan><tspan
+               id="tspan2">Planet 1 </tspan><tspan
                style="font-size:22.0587px;line-height:1.25"
-               id="tspan3">(green)</tspan></tspan></text>
+               id="tspan5">(orange)</tspan></tspan></text>
         <text
            id="text11443"
            y="492.32669"
@@ -260,16 +260,16 @@
            transform="translate(502.47161,-117.21697)"><tspan
              x="249.17012"
              y="492.32669"
-             id="tspan27"><tspan
+             id="tspan8"><tspan
    style="font-size:29.7793px"
-   id="tspan26">Planet 1</tspan><tspan
+   id="tspan7">Planet 2</tspan><tspan
    y="492.32669"
-   id="tspan28"> </tspan></tspan><tspan
+   id="tspan9"> </tspan></tspan><tspan
              x="249.17012"
              y="519.90004"
-             id="tspan30"><tspan
+             id="tspan16"><tspan
                style="font-size:22.0587px;line-height:1.25"
-               id="tspan29">(orange)</tspan></tspan></text>
+               id="tspan15">(purple)</tspan></tspan></text>
         <text
            id="text11431"
            y="931.48834"
@@ -279,11 +279,11 @@
            transform="translate(-149.58458,-205.05422)"><tspan
              x="596.44635"
              y="931.48834"
-             id="tspan33"><tspan
+             id="tspan19"><tspan
                style="font-size:29.7793px;line-height:1.25"
-               id="tspan31">Planet 2 </tspan><tspan
+               id="tspan17">Planet 3 </tspan><tspan
                style="font-size:22.0587px;line-height:1.25"
-               id="tspan32">(purple)</tspan></tspan></text>
+               id="tspan18">(yellow)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:165.286;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none"
@@ -293,16 +293,16 @@
            transform="translate(-305.22361,-339.12344)"><tspan
              x="448.96237"
              y="714.29242"
-             id="tspan35"><tspan
+             id="tspan21"><tspan
    style="font-size:29.7793px"
-   id="tspan34">Planet 3</tspan><tspan
+   id="tspan20">Planet 0</tspan><tspan
    y="714.29242"
-   id="tspan36"> </tspan></tspan><tspan
+   id="tspan22"> </tspan></tspan><tspan
              x="448.96237"
              y="741.86577"
-             id="tspan38"><tspan
+             id="tspan24"><tspan
                style="font-size:22.0587px;line-height:1.25"
-               id="tspan37">(yellow)</tspan></tspan></text>
+               id="tspan23">(green)</tspan></tspan></text>
       </g>
       <path
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.32202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
