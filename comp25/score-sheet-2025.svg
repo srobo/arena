@@ -191,7 +191,7 @@
      inkscape:cx="412.41735"
      inkscape:cy="40.491885"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4902"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="984"
@@ -478,50 +478,93 @@
                transform="translate(286.52111,-70.447128)"
                id="g4717">
               <g
-                 transform="translate(82.798989,-59.382152)"
+                 transform="translate(83.717168,-60.145847)"
                  id="g4514">
-                <g
-                   transform="translate(-11.282429,-68.48528)"
-                   id="use4476">
-                  <text
-                     id="text4709"
-                     y="450.36215"
-                     x="181.97198"
-                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7486px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bebebe;fill-opacity:1;stroke:none"
-                     xml:space="preserve"><tspan
-                       id="tspan4711"
-                       y="450.36215"
-                       x="181.97198"
-                       sodipodi:role="line"
-                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7486px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#bebebe;fill-opacity:1">Tokens</tspan></text>
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
-                     d="m 141.78859,457.40487 h 79.77448"
-                     id="path4266"
-                     inkscape:connector-curvature="0"
-                     sodipodi:nodetypes="cc" />
-                </g>
-                <g
-                   transform="translate(-11.282429,-22.272081)"
-                   id="use4478">
-                  <text
-                     id="text4699"
-                     y="450.36215"
-                     x="181.97198"
-                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7486px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bebebe;fill-opacity:1;stroke:none"
-                     xml:space="preserve"><tspan
-                       id="tspan4701"
-                       y="450.36215"
-                       x="181.97198"
-                       sodipodi:role="line"
-                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7486px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#bebebe;fill-opacity:1">Highest</tspan></text>
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
-                     d="m 142.31279,454.9429 h 79.77448"
-                     id="path4266-3"
-                     inkscape:connector-curvature="0"
-                     sodipodi:nodetypes="cc" />
-                </g>
+                <text
+                   id="text4699"
+                   y="438.14417"
+                   x="161.35797"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
+                   xml:space="preserve"><tspan
+                     id="tspan4701"
+                     y="438.14417"
+                     x="161.35797"
+                     sodipodi:role="line"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1">Highest:</tspan></text>
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
+                   d="m 184.59116,438.79991 h 24.83007"
+                   id="path4266-3"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="cc" />
+                <text
+                   id="text4699-6"
+                   y="371.77542"
+                   x="159.983"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
+                   xml:space="preserve"><tspan
+                     id="tspan4701-7"
+                     y="371.77542"
+                     x="159.983"
+                     sodipodi:role="line"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1"># Green:</tspan></text>
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
+                   d="m 184.59116,372.43113 h 24.83007"
+                   id="path4266-3-5"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="cc" />
+                <text
+                   id="text4699-6-5"
+                   y="387.42407"
+                   x="156.57671"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
+                   xml:space="preserve"><tspan
+                     id="tspan4701-7-6"
+                     y="387.42407"
+                     x="156.57671"
+                     sodipodi:role="line"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1"># Orange:</tspan></text>
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
+                   d="m 184.59116,388.07981 h 24.83007"
+                   id="path4266-3-5-2"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="cc" />
+                <text
+                   id="text4699-6-1"
+                   y="403.56107"
+                   x="165.07831"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
+                   xml:space="preserve"><tspan
+                     id="tspan4701-7-2"
+                     y="403.56107"
+                     x="165.07831"
+                     sodipodi:role="line"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1"># Pink:</tspan></text>
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
+                   d="m 184.59116,404.2168 h 24.83007"
+                   id="path4266-3-5-7"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="cc" />
+                <text
+                   id="text4699-6-9"
+                   y="419.34125"
+                   x="159.23045"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
+                   xml:space="preserve"><tspan
+                     id="tspan4701-7-3"
+                     y="419.34125"
+                     x="159.23045"
+                     sodipodi:role="line"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1"># Yellow:</tspan></text>
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
+                   d="m 184.59116,419.99696 h 24.83007"
+                   id="path4266-3-5-6"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="cc" />
               </g>
             </g>
           </g>
