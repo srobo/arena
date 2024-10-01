@@ -187,9 +187,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.62488023"
-     inkscape:cx="279.25352"
-     inkscape:cy="562.5078"
+     inkscape:zoom="1.0002004"
+     inkscape:cx="412.41735"
+     inkscape:cy="40.491885"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -277,13 +277,13 @@
        transform="translate(-1.3964847)">
       <text
          id="text11423"
-         y="167.9101"
+         y="154.7851"
          x="174.49109"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
            id="tspan3084"
-           y="167.9101"
+           y="154.7851"
            x="174.49109"
            sodipodi:role="line"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
@@ -292,57 +292,62 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
          x="564.3739"
-         y="167.71356"
+         y="154.58856"
          id="text11443"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
            id="tspan3086"
            sodipodi:role="line"
            x="564.3739"
-           y="167.71356"><tspan
+           y="154.58856"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
    id="tspan3954">Zone 1 </tspan>(orange)</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
          x="566.37341"
-         y="961.89142"
+         y="913.14142"
          id="text11431"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
            id="tspan3088"
            sodipodi:role="line"
            x="566.37341"
-           y="961.89142"><tspan
+           y="913.14142"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
    id="tspan3958">Zone 2 </tspan>(pink)</tspan></text>
       <text
          id="text11447"
-         y="961.89142"
+         y="913.14142"
          x="176.78113"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
            id="tspan3090"
-           y="961.89142"
+           y="913.14142"
            x="176.78113"
            sodipodi:role="line"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
    id="tspan3956">Zone 3 </tspan>(yellow)</tspan></text>
       <text
          id="text3416"
-         y="191.69769"
+         y="178.57269"
          x="304.9003"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="191.69769"
+           y="178.57269"
            x="304.9003"
            id="tspan3418"
            sodipodi:role="line"
            style="font-size:17.5px;line-height:1.25">Present: ▢</tspan><tspan
            id="tspan3420"
-           y="214.01201"
+           y="200.88701"
            x="304.9003"
            sodipodi:role="line"
-           style="font-size:17.5px;line-height:1.25">Disqualified: ▢</tspan></text>
+           style="font-size:17.5px;line-height:1.25">Disqualified: ▢</tspan><tspan
+           y="223.20131"
+           x="304.9003"
+           sodipodi:role="line"
+           style="font-size:17.5px;line-height:1.25"
+           id="tspan3476">Fully left starting area: ▢</tspan></text>
       <use
          height="1052.3622"
          width="744.09448"
@@ -353,20 +358,20 @@
          x="0" />
       <text
          id="text3412-5"
-         y="191.7139"
+         y="178.5889"
          x="105.16998"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan3083"
-           y="191.7139"
+           y="178.5889"
            x="105.16998"
            sodipodi:role="line"
            style="font-size:20px;line-height:1.25">TLA: _______</tspan><tspan
            style="font-size:16.25px;line-height:1.25"
            id="tspan3089"
-           y="213.3019"
+           y="188.80995"
            x="105.16998"
-           sodipodi:role="line">(from robot)</tspan></text>
+           sodipodi:role="line" /></text>
       <use
          height="1052.3622"
          width="744.09448"
@@ -378,7 +383,7 @@
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-1e-6,720.64824)"
+         transform="translate(-10e-7,664.39824)"
          id="use3574"
          xlink:href="#text3416"
          y="0"
@@ -386,7 +391,7 @@
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-1e-6,720.64824)"
+         transform="translate(-10e-7,664.39824)"
          id="use3580"
          xlink:href="#use3566"
          y="0"
@@ -394,7 +399,7 @@
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-1e-6,720.64823)"
+         transform="translate(-10e-7,664.39823)"
          id="use3576"
          xlink:href="#text3412-5"
          y="0"
@@ -402,7 +407,7 @@
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-1e-6,720.64823)"
+         transform="translate(-10e-7,664.39823)"
          id="use3582"
          xlink:href="#use3570"
          y="0"
@@ -425,12 +430,12 @@
     </g>
     <g
        id="g4314"
-       transform="matrix(1.1865519,0,0,1.1865519,-48.461652,-128.71565)">
+       transform="matrix(1.1865519,0,0,1.1865519,-44.354818,-160.57973)">
       <rect
-         y="328.10938"
-         x="119.20469"
-         height="505.68521"
-         width="505.68506"
+         y="344.97412"
+         x="136.06934"
+         height="471.95575"
+         width="471.95575"
          id="rect3157-35"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.617315;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
@@ -603,63 +608,85 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
        x="372.61487"
-       y="1003.3622"
+       y="947.11218"
        id="text3223"><tspan
          sodipodi:role="line"
          x="372.61487"
-         y="1003.3622"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
+         y="947.11218"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan3092">Write a block-capital letter for the colour of <tspan
-   style="font-style:italic"
+   style="font-style:italic;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan4446">token</tspan>:</tspan><tspan
          sodipodi:role="line"
          x="372.61487"
-         y="1026.7997"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
+         y="970.54968"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan3994">G = green, O = orange, P = pink, Y = yellow</tspan></text>
+    <g
+       id="g6494"
+       transform="translate(-2.901489,-11.25)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+         x="90.85434"
+         y="501.03973"
+         id="text4257"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           x="84.929276"
+           y="501.03973"
+           style="font-size:20px;text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+             id="tspan4255"
+             style="font-size:20px;text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+             x="84.929276"
+             y="501.03973">S</tspan></tspan><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           x="84.929276"
+           y="526.03973"
+           style="font-size:20px;text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none">T</tspan><tspan
+           sodipodi:role="line"
+           x="84.929276"
+           y="551.03973"
+           id="tspan15"
+           style="font-size:20px;text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none">A</tspan><tspan
+           sodipodi:role="line"
+           x="84.929276"
+           y="576.03973"
+           id="tspan16"
+           style="font-size:20px;text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none">G</tspan><tspan
+           sodipodi:role="line"
+           x="84.929276"
+           y="601.03973"
+           id="tspan17"
+           style="font-size:20px;text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none">E</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451"
+         id="rect7277"
+         width="30"
+         height="559.99994"
+         x="70"
+         y="259.99997" />
+    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:19.1699px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.898588"
-       x="68.35434"
-       y="523.53973"
-       id="text4257"><tspan
-         sodipodi:role="line"
-         id="tspan8"
-         x="62.429276"
-         y="523.53973"
-         style="text-align:center;text-anchor:middle"><tspan
-           id="tspan4255"
-           style="font-size:19.1699px;text-align:center;text-anchor:middle;stroke-width:0.898588"
-           x="62.429276"
-           y="523.53973">S</tspan></tspan><tspan
-         sodipodi:role="line"
-         id="tspan9"
-         x="62.429276"
-         y="547.50214"
-         style="text-align:center;text-anchor:middle">T</tspan><tspan
-         sodipodi:role="line"
-         x="62.429276"
-         y="571.46454"
-         id="tspan15"
-         style="text-align:center;text-anchor:middle">A</tspan><tspan
-         sodipodi:role="line"
-         x="62.429276"
-         y="595.42688"
-         id="tspan16"
-         style="text-align:center;text-anchor:middle">G</tspan><tspan
-         sodipodi:role="line"
-         x="62.429276"
-         y="619.38928"
-         id="tspan17"
-         style="text-align:center;text-anchor:middle">E</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.62796;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451"
-       id="rect7277"
-       width="22.368368"
-       height="599.99994"
-       x="51.245087"
-       y="260.62497" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.781155"
+       x="43.556042"
+       y="1006.3162"
+       id="text3412-5-0-0-7-7"><tspan
+         x="43.556042"
+         y="1006.3162"
+         id="tspan3497-4-0-6-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.781155">Irregularities:_____________________________________________________________</tspan><tspan
+         x="43.556042"
+         y="1033.6566"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.781155"
+         id="tspan40394">___________________________________________________________________________</tspan><tspan
+         x="43.556042"
+         y="1060.9969"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.781155"
+         id="tspan40396" /></text>
   </g>
 </svg>
