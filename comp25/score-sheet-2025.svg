@@ -481,47 +481,56 @@
                  transform="translate(82.798989,-59.382152)"
                  id="g4514">
                 <g
-                   transform="translate(-11.282429,-68.48528)"
-                   id="use4476">
+                   id="g2915"
+                   transform="translate(-1.2101475,-4.2138909)">
                   <text
-                     id="text4709"
-                     y="450.36215"
-                     x="181.97198"
-                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7486px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bebebe;fill-opacity:1;stroke:none"
+                     id="text4699"
+                     y="380.7207"
+                     x="158.28632"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
                      xml:space="preserve"><tspan
-                       id="tspan4711"
-                       y="450.36215"
-                       x="181.97198"
+                       id="tspan4701"
+                       y="380.7207"
+                       x="158.28632"
                        sodipodi:role="line"
-                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7486px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#bebebe;fill-opacity:1">Tokens</tspan></text>
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1">Highest:</tspan></text>
                   <path
                      style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
-                     d="m 141.78859,457.40487 h 79.77448"
-                     id="path4266"
+                     d="m 181.51951,381.37645 h 24.83007"
+                     id="path4266-3"
+                     inkscape:connector-curvature="0"
+                     sodipodi:nodetypes="cc" />
+                </g>
+                <g
+                   id="g2915-3"
+                   transform="translate(-0.32927529,29.497235)">
+                  <text
+                     id="text4699-6"
+                     y="372.8197"
+                     x="157.21024"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
+                     xml:space="preserve"><tspan
+                       id="tspan4701-7"
+                       y="372.8197"
+                       x="157.21024"
+                       sodipodi:role="line"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1">Tokens:</tspan></text>
+                  <path
+                     style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
+                     d="m 134.58068,406.65979 h 72.8082"
+                     id="path4266-3-5"
+                     inkscape:connector-curvature="0"
+                     sodipodi:nodetypes="cc" />
+                  <path
+                     style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
+                     d="m 134.58068,389.80423 h 72.8082"
+                     id="path4266-3-5-3"
                      inkscape:connector-curvature="0"
                      sodipodi:nodetypes="cc" />
                 </g>
                 <g
                    transform="translate(-11.282429,-22.272081)"
-                   id="use4478">
-                  <text
-                     id="text4699"
-                     y="450.36215"
-                     x="181.97198"
-                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7486px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bebebe;fill-opacity:1;stroke:none"
-                     xml:space="preserve"><tspan
-                       id="tspan4701"
-                       y="450.36215"
-                       x="181.97198"
-                       sodipodi:role="line"
-                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7486px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#bebebe;fill-opacity:1">Highest</tspan></text>
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
-                     d="m 142.31279,454.9429 h 79.77448"
-                     id="path4266-3"
-                     inkscape:connector-curvature="0"
-                     sodipodi:nodetypes="cc" />
-                </g>
+                   id="use4478" />
               </g>
             </g>
           </g>
