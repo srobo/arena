@@ -1,5 +1,8 @@
 
-all: score-sheet-2025.pdf
+all: score-sheet-2025.pdf score-sheet-2025.png
+
+%.png: %.pdf
+	pdftoppm $< -png > $@
 
 %.pdf: %.svg
 	inkscape --export-filename colour-$@ $<
@@ -8,4 +11,4 @@ all: score-sheet-2025.pdf
 		-dCompatibilityLevel=1.4 -dNOPAUSE -dBATCH colour-$@
 
 clean:
-	rm -f *.pdf
+	rm -f *.pdf *.png
