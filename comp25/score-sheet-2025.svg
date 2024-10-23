@@ -347,7 +347,7 @@
            x="304.9003"
            sodipodi:role="line"
            style="font-size:17.5px;line-height:1.25"
-           id="tspan3476">Fully left starting area: ▢</tspan></text>
+           id="tspan3476">Fully left starting zone: ▢</tspan></text>
       <use
          height="1052.3622"
          width="744.09448"
@@ -481,22 +481,21 @@
                  transform="translate(82.798989,-59.382152)"
                  id="g4514">
                 <g
-                   id="g2915"
-                   transform="translate(-1.2101475,-4.2138909)">
+                   id="g1084">
                   <text
                      id="text4699"
-                     y="380.7207"
-                     x="158.28632"
+                     y="376.50681"
+                     x="157.07617"
                      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
                      xml:space="preserve"><tspan
                        id="tspan4701"
-                       y="380.7207"
-                       x="158.28632"
+                       y="376.50681"
+                       x="157.07617"
                        sodipodi:role="line"
                        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1">Highest:</tspan></text>
                   <path
                      style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
-                     d="m 181.51951,381.37645 h 24.83007"
+                     d="m 180.30936,377.16256 h 24.83007"
                      id="path4266-3"
                      inkscape:connector-curvature="0"
                      sodipodi:nodetypes="cc" />
@@ -507,14 +506,14 @@
                   <text
                      id="text4699-6"
                      y="372.8197"
-                     x="157.21024"
+                     x="160.23459"
                      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
                      xml:space="preserve"><tspan
                        id="tspan4701-7"
                        y="372.8197"
-                       x="157.21024"
+                       x="160.23459"
                        sodipodi:role="line"
-                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1">Tokens:</tspan></text>
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1">Pallets:</tspan></text>
                   <path
                      style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
                      d="m 134.58068,406.65979 h 72.8082"
