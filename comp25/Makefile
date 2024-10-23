@@ -1,3 +1,4 @@
+.PHONY: all clean
 
 all: score-sheet-2025.pdf score-sheet-2025.png
 
