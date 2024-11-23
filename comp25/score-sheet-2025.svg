@@ -497,18 +497,18 @@
           </g>
           <g
              id="g995"
-             transform="translate(0,-0.23432115)">
+             transform="translate(0,-6.555157)">
             <text
                id="text4699-3-5"
                y="397.59506"
                x="183.8511"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.64167199px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.6417px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;stroke:none"
                xml:space="preserve"><tspan
                  id="tspan4701-6-0"
                  y="397.59506"
                  x="183.8511"
                  sodipodi:role="line"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#5a5a5a;fill-opacity:1;font-size:12.64167199px">G    O    P    Y</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.6417px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#5a5a5a;fill-opacity:1">G    O    P    Y</tspan></text>
           </g>
           <g
              transform="translate(34.519559,28.910102)"
@@ -519,22 +519,22 @@
           </g>
           <path
              style="fill:none;stroke:#000000;stroke-width:0.316042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 141.9667,400.82651 h 84.27782"
+             d="m 141.9667,394.50567 h 84.27782"
              id="path1448"
              sodipodi:nodetypes="cc" />
           <path
-             style="fill:none;stroke:#000000;stroke-width:0.316042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 184.10561,400.8265 0,28.65446"
+             style="fill:none;stroke:#000000;stroke-width:0.359527;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 184.10561,392.39872 v 37.08224"
              id="path1448-6"
              sodipodi:nodetypes="cc" />
           <path
-             style="fill:none;stroke:#000000;stroke-width:0.316042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 205.22111,400.8265 v 28.65446"
+             style="fill:none;stroke:#000000;stroke-width:0.359527;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 205.22111,392.39872 v 37.08224"
              id="path1448-6-7"
              sodipodi:nodetypes="cc" />
           <path
-             style="fill:none;stroke:#000000;stroke-width:0.316042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 162.9901,400.8265 v 28.65446"
+             style="fill:none;stroke:#000000;stroke-width:0.359527;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 162.9901,392.39872 v 37.08224"
              id="path1448-6-5"
              sodipodi:nodetypes="cc" />
         </g>
