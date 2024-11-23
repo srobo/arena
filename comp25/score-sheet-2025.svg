@@ -472,7 +472,7 @@
              id="scoring-box-outline"
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.493855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <g
-             transform="translate(13.450109,-17.442693)"
+             transform="translate(13.450109,-12.702066)"
              id="g4514">
             <g
                id="g1084">
@@ -484,9 +484,9 @@
                  xml:space="preserve"><tspan
                    id="tspan4701"
                    y="376.50681"
-                   x="157.07617"
+                   x="178.12222"
                    sodipodi:role="line"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#5a5a5a;fill-opacity:1;text-anchor:end;text-align:end">Highest:</tspan></text>
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#5a5a5a;fill-opacity:1">Highest:</tspan></text>
               <path
                  style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
                  d="m 180.30936,377.16256 h 24.83007"
@@ -496,31 +496,10 @@
             </g>
           </g>
           <g
-             id="g15920"
-             transform="translate(-0.62976725)">
+             id="g995"
+             transform="translate(0,-0.23432115)">
             <g
-               transform="translate(19.244205,32.559051)"
-               id="district-yellow-input">
-              <text
-                 id="text4699-3"
-                 y="376.50681"
-                 x="178.12222"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#5a5a5a;fill-opacity:1;stroke:none"
-                 xml:space="preserve"><tspan
-                   id="tspan4701-6"
-                   y="376.50681"
-                   x="178.12222"
-                   sodipodi:role="line"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#5a5a5a;fill-opacity:1">Y:</tspan></text>
-              <path
-                 style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
-                 d="m 180.30936,377.16256 h 24.83007"
-                 id="path4266-3-1"
-                 inkscape:connector-curvature="0"
-                 sodipodi:nodetypes="cc" />
-            </g>
-            <g
-               transform="translate(18.924511,7.2700483)"
+               transform="translate(18.294744,15.171093)"
                id="district-pink-input">
               <text
                  id="text4699-3-1"
@@ -541,7 +520,7 @@
                  sodipodi:nodetypes="cc" />
             </g>
             <g
-               transform="translate(-21.684545,7.3351188)"
+               transform="translate(-22.314312,15.236164)"
                id="district-orange-input">
               <text
                  id="text4699-3-5"
@@ -561,8 +540,32 @@
                  inkscape:connector-curvature="0"
                  sodipodi:nodetypes="cc" />
             </g>
+          </g>
+          <g
+             id="g1005">
             <g
-               transform="translate(-21.978777,32.618463)"
+               transform="translate(18.614438,42.040305)"
+               id="district-yellow-input">
+              <text
+                 id="text4699-3"
+                 y="376.50681"
+                 x="178.12222"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5882px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#5a5a5a;fill-opacity:1;stroke:none"
+                 xml:space="preserve"><tspan
+                   id="tspan4701-6"
+                   y="376.50681"
+                   x="178.12222"
+                   sodipodi:role="line"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5882px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#5a5a5a;fill-opacity:1">Y:</tspan></text>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.05131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05131, 1.05131;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 180.30936,377.16256 h 24.83007"
+                 id="path4266-3-1"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cc" />
+            </g>
+            <g
+               transform="translate(-22.608544,42.099717)"
                id="district-green-input">
               <text
                  id="text4699-3-1-6"
