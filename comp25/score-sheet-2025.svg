@@ -188,13 +188,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0002004"
-     inkscape:cx="412.41735"
-     inkscape:cy="40.491885"
+     inkscape:cx="424.91485"
+     inkscape:cy="667.86616"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="984"
+     inkscape:window-height="1163"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -305,24 +305,24 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
          x="566.37341"
-         y="913.14142"
+         y="898.14142"
          id="text11431"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
            id="tspan3088"
            sodipodi:role="line"
            x="566.37341"
-           y="913.14142"><tspan
+           y="898.14142"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
    id="zone-3-label">Zone 3 </tspan>(yellow)</tspan></text>
       <text
          id="text11447"
-         y="913.14142"
+         y="898.14142"
          x="176.78113"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
            id="tspan3090"
-           y="913.14142"
+           y="898.14142"
            x="176.78113"
            sodipodi:role="line"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
@@ -383,7 +383,7 @@
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-10e-7,664.39824)"
+         transform="translate(-10e-7,649.39824)"
          id="use3574"
          xlink:href="#text3416"
          y="0"
@@ -391,7 +391,7 @@
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-10e-7,664.39824)"
+         transform="translate(-10e-7,649.39824)"
          id="use3580"
          xlink:href="#use3566"
          y="0"
@@ -399,7 +399,7 @@
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-10e-7,664.39823)"
+         transform="translate(-10e-7,649.39823)"
          id="use3576"
          xlink:href="#text3412-5"
          y="0"
@@ -407,7 +407,7 @@
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-10e-7,664.39823)"
+         transform="translate(-10e-7,649.39823)"
          id="use3582"
          xlink:href="#use3570"
          y="0"
@@ -430,12 +430,12 @@
     </g>
     <g
        id="g4314"
-       transform="matrix(1.1865519,0,0,1.1865519,-44.354818,-160.57973)">
+       transform="matrix(1.1865519,0,0,1.1865519,-44.354818,-168.07973)">
       <rect
          y="344.97412"
          x="136.06934"
          height="471.95575"
-         width="471.95575"
+         width="471.95551"
          id="rect3157-35"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.617315;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
@@ -676,25 +676,34 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:17.49999991px;line-height:0%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
        x="372.61487"
-       y="947.11218"
+       y="928.36218"
        id="text3223"><tspan
          sodipodi:role="line"
          x="372.61487"
-         y="947.11218"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
-         id="tspan3092">Write a block-capital letter for the colour of <tspan
-   style="font-style:italic;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
-   id="tspan4446">token</tspan>:</tspan><tspan
+         y="928.36218"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.49999991px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan3092"><tspan
+   style="font-style:italic;font-size:17.49999991px"
+   id="tspan5486">Highest</tspan>: write a block-capital letter for the colour of <tspan
+   style="font-style:italic;font-size:17.49999991px;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan4446">pallet.</tspan></tspan><tspan
          sodipodi:role="line"
          x="372.61487"
-         y="970.54968"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
-         id="tspan3994">G = green, O = orange, P = pink, Y = yellow</tspan></text>
+         y="951.79968"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49999991px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan6567">G = green, O = orange, P = pink, Y = yellow</tspan><tspan
+         sodipodi:role="line"
+         x="372.61487"
+         y="975.23718"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.49999991px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan6573">G/O/P/Y<tspan
+   style="font-style:normal;font-size:17.49999991px"
+   id="tspan6575">: write the number of pallets of that colour (including the highest)</tspan></tspan></text>
     <g
        id="g6494"
-       transform="translate(-2.901489,-11.25)">
+       transform="translate(-2.901489,-18.75)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
